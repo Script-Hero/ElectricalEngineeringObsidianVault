@@ -1,0 +1,4 @@
+- Taxes
+	- Property tax
+	- Sales tax
+	- Income tax

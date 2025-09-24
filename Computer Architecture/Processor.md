@@ -1,0 +1,3 @@
+- "Active" part of the computer
+- Add numbers, test numbers, signal I/O
+- Also called CPU or Central Processor Unit

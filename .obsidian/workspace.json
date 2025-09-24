@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8619519cb2b01f6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab17a9d363f36b15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88f813dfc0a3ad4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "133b75378e21675d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c8e1a867253c0e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29ce6276a53ec26e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45d33a247169d0eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ad00a3a4d0865fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5110321044922
+  },
+  "right": {
+    "id": "04a068a5b0513b27",
+    "type": "split",
+    "children": [
+      {
+        "id": "b196355c3233c05d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a6a1bd9e572eaff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phys 222 Exam 2 Studying.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Phys 222 Exam 2 Studying"
+            }
+          },
+          {
+            "id": "56b738c86daa9845",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phys 222 Exam 2 Studying.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Phys 222 Exam 2 Studying"
+            }
+          },
+          {
+            "id": "441a8c8aada1df25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64f5637e84243b48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Phys 222 Exam 2 Studying.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Phys 222 Exam 2 Studying"
+            }
+          },
+          {
+            "id": "3dd89d7fcc9d4edc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "29ce6276a53ec26e",
+  "lastOpenFiles": [
+    "desk.md",
+    "Physics Lab/Errors in Measurement.md",
+    "Final Exschmams.md",
+    "Poker.md",
+    "Women Shit.md",
+    "Phys222/Misc Util/222 Transformed Study Guide.md",
+    "Phys222/Misc Util/222 prompt.md",
+    "Phys222/Misc Util/Phys 222 Exam 2 Default Study Guide.md",
+    "Phys222/Misc Util/Phys 222 Exam 2 Studying.md",
+    "Phys222/Misc Util/Quantum--8-21-24.md",
+    "NumericalMethods/Numerical Methods HW 6.md",
+    "Excalidraw/triangle_example.md",
+    "Chats/New Chat.md",
+    "Chats",
+    "Excalidraw/Math Modeling Example 1.md",
+    "Scratch Paper.md",
+    "Sp33ch.md",
+    "j;lj.md",
+    "Phys222/Misc Util",
+    "Diff-EQ/Midterm/Chapter 3 - Second Order Linear Equations.md",
+    "Physics E&M/Exam 3 Review Video.md",
+    "Diff-EQ/Midterm/Chapter 2 - First Order Differential Equations.md",
+    "Physics E&M/Exam 3 Speedrun/Chapter 9 -- The Magnetic Field.md",
+    "Physics E&M/EXAM-1/Electric Potential.md",
+    "Physics E&M/207 Final Review.md",
+    "Physics E&M/Chapter 12 - Time Dependent Circuits.md",
+    "Physics E&M/Electric Field Lines.md",
+    "Physics E&M/Work - Energy.md",
+    "Physics E&M/Exam 3 Speedrun",
+    "Cal III/Untitled",
+    "ECEN 248",
+    "Diff-EQ/Midterm",
+    "Physics E&M/EXAM-1",
+    "Excalidraw/Pasted image 20230905144924.png",
+    "Excalidraw/Direction Field Example.png",
+    "Physics Lab",
+    "Diff-EQ",
+    "Physics E&M"
+  ]
+}

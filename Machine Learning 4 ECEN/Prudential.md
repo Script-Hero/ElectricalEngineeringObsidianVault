@@ -1,0 +1,12 @@
+- President - Christian
+- Brotherhood - Zurbeck
+- Social - Elliot
+- Finance - Kaleb
+- Rush 1 - Roham
+- Rush 2 - Eli
+- Fam - Whit
+- *Pledge Ed - Barry*
+- *Philo - Baesler*
+- *Rit & Trad - Braylen*
+- *Standards - Seth*
+- Communications - Caden

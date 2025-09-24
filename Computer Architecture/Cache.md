@@ -1,0 +1,2 @@
+- "A safe place for hiding things"
+- Consists of small, fast memory that acts as a buffer for the [[DRAM]] memory

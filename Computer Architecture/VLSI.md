@@ -1,0 +1,1 @@
+Very Large Scaled [[Integrated Circuit]], integrates hundreds of thousands to millions of transistors into a single chip.

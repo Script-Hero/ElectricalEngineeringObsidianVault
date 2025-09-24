@@ -1,0 +1,5 @@
+- The advent of primary elections
+- Decline in party identification, increase in split-ticket voting
+- Increased focus on candidate rather than party 
+- Influence of mass media, particularly television and the Web
+- Decline in political patronage 

@@ -1,0 +1,1 @@
+![[exam_1_provided_opcode_reference_sheet.png]]

@@ -1,0 +1,3 @@
+- There are 32 registers in the LEGv8, X0-X30, and XZR.
+	- XZR (X31) always contains $0$
+- A register is **64 bits long** and **can hold 2 words** (a double-word).

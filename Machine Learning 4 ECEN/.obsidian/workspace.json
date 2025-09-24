@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "f62deb5ca4a2b903",
+    "type": "split",
+    "children": [
+      {
+        "id": "10504ceab2c4e5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a37395f786d2606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly"
+            }
+          },
+          {
+            "id": "b2a101da49d77bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final Exam Compilation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final Exam Compilation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2f8814e6fa7e08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8787f71abfd8ba16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4582aad3491f98d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c08398373be3a787",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01aed1eb22bfd6ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "dccd0e4ffa66236f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weekly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.50260543823242
+  },
+  "right": {
+    "id": "3945c7b1dd1de7bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d388c26998333a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20f17d8e0e9c8fd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Perceptron Learning Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Perceptron Learning Algorithm"
+            }
+          },
+          {
+            "id": "62c24d5cdad075c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Perceptron Learning Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Perceptron Learning Algorithm"
+            }
+          },
+          {
+            "id": "dccc763b5be5b976",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6762988181dc2f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Perceptron Learning Algorithm.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Perceptron Learning Algorithm"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2a101da49d77bfa",
+  "lastOpenFiles": [
+    "rnn.png",
+    "model_curves.png",
+    "regularization_visualization.png",
+    "Weekly.md",
+    "Final Exam Compilation.md",
+    "Prudential.md",
+    "Linear Regression.md",
+    "Logistic Regression.md",
+    "Sigmoid Function.md",
+    "Classification.md",
+    "Data Cleaning.md",
+    "Probability Mass Function.md",
+    "Random Variable.md",
+    "Probability.md",
+    "Event.md",
+    "Sample Space.md",
+    "Tree Building Process.md",
+    "Classification Tree.md",
+    "Pocket Algorithm.md",
+    "Perceptron Learning Algorithm.md",
+    "Random Forests.md",
+    "Bagging.md",
+    "Two Random Variables.md",
+    "Stochastic Gradient Descent.md",
+    "Verification vs Real Learning.md",
+    "Exam 1 Review.md",
+    "Gradient Descent.md",
+    "Minimizing E_in.md",
+    "Pasted image 20250227141540.png",
+    "Pasted image 20250227133806.png",
+    "Pasted image 20250227132749.png",
+    "Pasted image 20250227132017.png",
+    "Pasted image 20250227131321.png",
+    "log_reg_example.png",
+    "3_fold_cross_validation.png",
+    "cross_validation.png"
+  ]
+}

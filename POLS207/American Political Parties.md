@@ -1,0 +1,3 @@
+**Party**: An organization that seeks to achieve power by winning public office in elections
+**[[Responsible Party Model]]**: A party system in which each party offers clear policy alternatives and holds their elected officials responsible for enacting these policies in office
+**[[Candidate Centered Model]]**: Individual candidates rather than parties raise funds, create personal organizations, and rely on professional consultants to direct their campaigns 

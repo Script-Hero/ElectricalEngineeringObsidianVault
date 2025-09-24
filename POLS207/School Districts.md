@@ -1,0 +1,5 @@
+- Every inch of land in Texas is part of a school district
+	- 1,265 school districts
+- Each school district is governed by an elected board of trustees
+- The board employs a superintendent to oversee the operation, and the superintendent recommends the trustees
+- The board sets overall policy for the school district

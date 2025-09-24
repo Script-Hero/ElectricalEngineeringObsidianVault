@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "86baa0f3f906f5a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b1748c4bbf7b85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d411230f98df7a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Root"
+            }
+          },
+          {
+            "id": "681da528a09de165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hall Effect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hall Effect"
+            }
+          },
+          {
+            "id": "3f34077a8cd80195",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d7afb68120f6c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8df4b2a2abd7e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "120a8e6495046879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dc77e4513f517c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f87d352a8a3d2ec8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c0b551ba2a61ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b2809491daa1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d23a9993f31b255",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cheat Sheet"
+            }
+          },
+          {
+            "id": "0feb4035d0b7fa1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cheat Sheet"
+            }
+          },
+          {
+            "id": "cebf14c38f1137d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "576835e6b657a486",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cheat Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3f34077a8cd80195",
+  "lastOpenFiles": [
+    "Hall Effect.md",
+    "Cheat Sheet.md",
+    "Pasted image 20250923022953.png",
+    "Pasted image 20250923022841.png",
+    "Pasted image 20250923022742.png",
+    "Root.md",
+    "Lorentz Force.md",
+    "lorentz_force.png",
+    "Temperature and Conductivity.md",
+    "Motion of Electrons in Solids.md",
+    "Semiconductor.md",
+    "semiconductor_silicone_ehp_recombination.png",
+    "semiconductor_silicon_activated.png",
+    "semiconductor_silicon.png",
+    "Insulator.md",
+    "insulator_sio2.png",
+    "Conductor.md",
+    "insulator_nacl.png",
+    "conductor.png"
+  ]
+}

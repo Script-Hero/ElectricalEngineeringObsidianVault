@@ -1,0 +1,3 @@
+- **Democracy** refers to poplar participation in government
+- **Direct Democracy** means that the people themselves can initiate and decide policy questions by popular vote
+- **Republicanism** involves decision making by representatives of the people

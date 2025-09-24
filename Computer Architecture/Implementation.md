@@ -1,0 +1,1 @@
+Hardware that obeys the architecture design of principal technique.

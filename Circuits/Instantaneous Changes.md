@@ -1,0 +1,1 @@
+Since the current through [[Inductors]] and the voltage through [[Capacitors]] cannot change instantaneously, the current or voltage *immediately after the switch opens* must be the same as immediately prior to the switch opening.  

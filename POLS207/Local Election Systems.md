@@ -1,0 +1,4 @@
+- **Types of at-large systems:** Pure, by position, from residency district
+- **Single-member district systems:** Candidates are chosen by voters in separate geographically defined districts
+- **Combination election systems:** Some officials are elected at large; others from single-member districts
+- **Federal court intervention:** Getting harder for cities to defend exclusive reliance on at-large elections

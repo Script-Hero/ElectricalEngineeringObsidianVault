@@ -1,0 +1,5 @@
+- $P=V\cdot I$
+- $P = I^2 R$ (by [[Ohm's Law]])
+- If using Passive Sign Convention:
+	- If power is **positive**, power is being **absorbed** from the circuit and delivered to the element
+	- If power is **negative**, power is being **delivered** from the element to the rest of the circuit 

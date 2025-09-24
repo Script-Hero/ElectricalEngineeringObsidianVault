@@ -1,0 +1,4 @@
+- **Legislative Proposal** is the most common method; an amendment is passed by the legislature and put to the voters in a referendum
+- **Popular Initiative** citizens can bypass the legislature for a direct vote if they obtain a requisite number of petition signatures
+- **Constitutional Convention** has lost favor as a method
+- **Constitutional Revision Commissions** are rarely used by are effective when attempted

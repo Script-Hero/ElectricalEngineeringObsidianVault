@@ -1,0 +1,2 @@
+- Sum of all voltage changes across circuit elements is always zero
+- Sum of all current changes is always zero

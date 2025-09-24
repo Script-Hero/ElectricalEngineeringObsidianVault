@@ -1,0 +1,5 @@
+- Machine learning algorithm where predictions are in a **discrete** set
+- **Classifier:** given a feature vector $x$ and a qualitative response $y$ taking values in the set $Y$, the classifier is a function $f(\cdot)$ that takes as input the feature vector $x$ and predicts its value for $f(x)$
+- Often, we are more interested in estimating the *probabilities* that $x$ belongs to each category in $Y$ 
+	- Not just a raw prediction
+	- [[Linear Regression]] does not estimate these probabilities well

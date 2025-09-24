@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "7d73db9f09146c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7488cc09f6fc2b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d10c6324b23d312b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Root"
+            }
+          },
+          {
+            "id": "ea1abed78b82f5c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideal OpAmp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideal OpAmp"
+            }
+          },
+          {
+            "id": "7d994a0184f6c518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postlab 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Postlab 3"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d20405751f46e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c71cb5b89b6e9add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3735a01bf53c2e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ab5fc0691f15f7ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "213c885d3b918cb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4c95358997840fd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd51fca908ddc24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebedda52146970d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sylly Day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sylly Day"
+            }
+          },
+          {
+            "id": "a667b95f3844dbc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sylly Day.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sylly Day"
+            }
+          },
+          {
+            "id": "f8e99e7215bc22a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46287e4e7978b935",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sylly Day.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sylly Day"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7d994a0184f6c518",
+  "lastOpenFiles": [
+    "Ideal OpAmp.md",
+    "Postlab 3.md",
+    "ideal-op-amp.png",
+    "Root.md",
+    "Transfer Function.md",
+    "Bode Plot.md",
+    "bode_plot_example.png",
+    "Prelab 3.md",
+    "Untitled.md",
+    "Pasted image 20250922033423.png",
+    "transfer_function_example.png",
+    "Decibel.md",
+    "First Order Frequency Response.md",
+    "transfer_function.png",
+    "example_rc.png",
+    "Sinusoidal Signals.md",
+    "Operations with Sinusoidals.md",
+    "adding_sinusoids.png",
+    "Effective Power.md",
+    "effective_power.png",
+    "Sylly Day.md",
+    "Prelab 1.md",
+    "Prelab 2.md",
+    "Welcome.md"
+  ]
+}

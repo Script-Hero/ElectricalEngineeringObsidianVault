@@ -1,0 +1,6 @@
+- Effects of certain election reforms are still being debated
+- Election reform efforts have also become considerably more partisan and are particularly intense in states with high level of party competition
+- The prevalent controversial issues include:
+	- Voter eligibility and verification (IDs)
+	- Voting locations and ease of voting
+	- Online (Internet) registration, ballot requests, and voting

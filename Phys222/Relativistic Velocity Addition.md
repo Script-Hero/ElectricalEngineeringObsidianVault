@@ -1,0 +1,3 @@
+- $$v_{\text{combined}}=\frac{v_1+v_2}{1+\frac{v_1v_2}{c^2}}$$
+- Because combined velocities are not allowed to exceed the speed of light $c$ 
+- If the ejected object is moving in the *opposite* direction as the spacecraft, use the [[Relativistic Velocity Subtraction]] equation

@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "6b791b856e1efeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee02e9c306a908a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3102c58bf088b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 2 Review.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam 2 Review"
+            }
+          },
+          {
+            "id": "8c8fe5fefa9a9354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam 2 Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exam 2 Review"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e78460f6779b1ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e8eae66e5fdbdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "884e95e2fd6f2fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93ce7782c639bfd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7fcbf353eaa172e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9348c78bd04e5842",
+    "type": "split",
+    "children": [
+      {
+        "id": "004e2d1284d7018b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ce26b2bcea3275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comparative Study of States and Communities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Comparative Study of States and Communities"
+            }
+          },
+          {
+            "id": "f1bfb0e04cd3d03e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comparative Study of States and Communities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Comparative Study of States and Communities"
+            }
+          },
+          {
+            "id": "cf37d38bdee2e654",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5314796b72804517",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comparative Study of States and Communities.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Comparative Study of States and Communities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b3102c58bf088b49",
+  "lastOpenFiles": [
+    "By the Powerpoints.md",
+    "Securing the Right to Vote.md",
+    "A Critical Assessment of State Legislatures.md",
+    "Legislative Committees.md",
+    "Legislature Apportionment and Districting.md",
+    "Making of a State Legislature.md",
+    "Texas State Legislature.md",
+    "Functions of State Legislatures.md",
+    "Impact of Campaigns.md",
+    "Does Money Buy Victory.md",
+    "State Party Organizations and Activists.md",
+    "Parties and Primaries.md",
+    "Parties Survivors.md",
+    "Downs Model.md",
+    "Responsible Party Model.md",
+    "American Political Parties.md",
+    "Continuing Election Controversies.md",
+    "Reasons for Variations in Voter Turnout.md",
+    "Voting and Voter Turnout.md",
+    "Voter Requirements in Texas.md",
+    "Protest as Political Participation.md",
+    "Political Participation.md",
+    "Exam 2 Review.md",
+    "Party Control of Governorships.md",
+    "Candidate Centered Model.md",
+    "color_coded_states.png",
+    "democratic_republican_control_of_legislatures.png",
+    "party_control_governorships.png",
+    "party_primary_ground_up.png",
+    "downs_model_2.png",
+    "downs_model_1.png",
+    "trends_in_voter_turnout.png",
+    "political_partipation_breakdown.png",
+    "Paying for Local Government.md",
+    "policymaking_system_feedback_loop.png"
+  ]
+}

@@ -1,0 +1,1 @@
+Tells the [[Datapath]], [[Memory]], and I/O devices what to do according to the instructions of the program.
