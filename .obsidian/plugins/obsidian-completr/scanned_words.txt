@@ -465,6 +465,9 @@ Square
 Strengths
 Shells
 Screening
+Section
+States
+Sample
 EXCALIDRAW
 Equations
 Elements
@@ -696,6 +699,8 @@ Moseley
 Motion
 Medium
 Modern
+Machine
+Mean
 OPTIONS
 ODE
 Only
@@ -1075,6 +1080,7 @@ Difference
 Diffraction
 Dispersive
 Derivative
+Decision
 Just
 JR
 Joule
@@ -1643,6 +1649,9 @@ Philosophical
 Provides
 Probability
 Physical
+Participation
+Parties
+Perceptron
 yz
 you
 yWSgQ
@@ -1704,6 +1713,7 @@ Idealized
 Intensity
 Introduced
 Implications
+Introduction
 General
 Graph
 Given
@@ -1724,6 +1734,7 @@ GeV
 Group
 Guidelines
 Gold
+Government
 can
 components
 call
@@ -2145,6 +2156,8 @@ Threshold
 Temperature
 Thomson
 Transitions
+Texas
+Trees
 gives
 general
 given
@@ -2255,6 +2268,8 @@ Frequency
 Findings
 Framework
 Foundation
+Federalism
+Forests
 for
 function
 first
@@ -2364,6 +2379,7 @@ visible
 velocities
 vibrations
 vacuum
+vs
 An
 Airy
 AKA
@@ -2423,6 +2439,7 @@ Application
 Absorbed
 Affects
 Antinodes
+Axioms
 We
 What
 With
@@ -2450,6 +2467,7 @@ Wilhelm
 Weakness
 Weaknesses
 Why
+Week
 numeric
 not
 neat
@@ -2552,6 +2570,7 @@ Nuclear
 Notation
 Nodes
 Needed
+Newtons
 Like
 Let
 Line
@@ -2586,6 +2605,8 @@ Limitations
 Levels
 Limit
 Limits
+Legislatures
+Learning
 Recognize
 Represents
 Radial
@@ -2638,6 +2659,7 @@ Rutherford
 Realism
 Requirements
 Reason
+Regression
 know
 kinetic
 ks
@@ -2755,6 +2777,10 @@ Classical
 Confirms
 Characteristic
 Cannot
+Constitutionalism
+Constitutions
+Campaigns
+Clustering
 Unit
 Use
 UsVV

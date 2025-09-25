@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab17a9d363f36b15",
+        "id": "5fe6bd68da72ba23",
         "type": "tabs",
         "children": [
           {
-            "id": "88f813dfc0a3ad4c",
+            "id": "263ece40735e1e25",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,8 +176,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29ce6276a53ec26e",
+  "active": "263ece40735e1e25",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.28379.1758841661722",
+    "Circuits/Circuits.md",
+    "Computer Architecture/Computer Architecture.md",
+    "Machine Learning 4 ECEN/Machine Learning for EE.md",
+    "POLS207/POLS 207.md",
+    "NumericalMethods/lkasf;klsajdf.md",
     "desk.md",
     "Physics Lab/Errors in Measurement.md",
     "Final Exschmams.md",
@@ -200,12 +207,6 @@
     "Diff-EQ/Midterm/Chapter 3 - Second Order Linear Equations.md",
     "Physics E&M/Exam 3 Review Video.md",
     "Diff-EQ/Midterm/Chapter 2 - First Order Differential Equations.md",
-    "Physics E&M/Exam 3 Speedrun/Chapter 9 -- The Magnetic Field.md",
-    "Physics E&M/EXAM-1/Electric Potential.md",
-    "Physics E&M/207 Final Review.md",
-    "Physics E&M/Chapter 12 - Time Dependent Circuits.md",
-    "Physics E&M/Electric Field Lines.md",
-    "Physics E&M/Work - Energy.md",
     "Physics E&M/Exam 3 Speedrun",
     "Cal III/Untitled",
     "ECEN 248",
@@ -214,7 +215,6 @@
     "Excalidraw/Pasted image 20230905144924.png",
     "Excalidraw/Direction Field Example.png",
     "Physics Lab",
-    "Diff-EQ",
-    "Physics E&M"
+    "Diff-EQ"
   ]
 }
