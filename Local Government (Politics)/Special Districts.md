@@ -1,0 +1,4 @@
+- A special district is a unit of [[Local Government]] that performs a single service in a limited geographic area
+	- Services such as education or sanitation
+	- The number of special districts has increased dramatically in the last 50 years
+	- They can be created to do almost anything that is legal

@@ -1,2 +1,2 @@
-- Kirchhoff's Current Law
-- The sum of all current entering and leaving any node of the circuit is zero
+- Kirchhoff's [[Current]] Law
+- The sum of all [[Current]] entering and leaving any node of the circuit is zero

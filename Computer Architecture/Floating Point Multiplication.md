@@ -1,4 +1,4 @@
-Multiplication with [[Floating Point Number Representation]]s
+[[Multiplication]] with [[Floating Point Number Representation]]s
 
 1. Multiply the sign bit
 2. Multiply the real part of the number

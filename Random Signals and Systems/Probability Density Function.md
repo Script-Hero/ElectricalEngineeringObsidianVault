@@ -14,18 +14,18 @@ $$
 P(x\leq X \leq x+\delta) = \delta \cdot f_{X}(x)
 $$
 Meaning that for $\delta=0$, $f_X = 0$
-- The probability that an outcome is *exactly* $x$ is always $0$
+- The [[Probability]] that an outcome is *exactly* $x$ is always $0$
 	- You have to define a range $x$ can be in
 
 ### Derived Distribution
 Computing the PDF of [[Functions of Random Variables]]
 #### Example
-Given $X\in[0,1]$ as a [[Uniform Random Variable]] and define $Y=e^X$, compute the Probability Density Function
+Given $X\in[0,1]$ as a [[Uniform Random Variable]] and define $Y=e^X$, compute the [[Probability]] Density Function
 - $f_{X}(x)=\begin{cases}1&\mbox{if } 0\leq x\leq 1\\0&\mbox{otherwise}\end{cases}$
 - $F_{Y}(y)=P(Y\leq y)=P(e^X\leq y)=P(X\leq\log (y))=\int\limits_{x=0}^{\log(y)}1dx=\log(y)$
 - Therefore $f_{Y}=\begin{cases}\frac{1}{y}&1\leq y\leq e\\0&\mbox{otherwise}\end{cases}$
 
-**This process works with any given Probability Density Function**
+**This process works with any given [[Probability]] Density Function**
 
 ### PDF of a Linear Function of a Random Variable
 Finding the PDF of an [[Affine Function]] of [[Multiple Random Variables]]

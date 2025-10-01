@@ -1,5 +1,5 @@
 - No free electrons
-- No current flows when electric field applied
+- No [[Current]] flows when [[Electric Field]] applied
 ## NaCl
 ![[insulator_nacl.png]]
 - All electrons tightly confined to their atomic masters (few free electrons)

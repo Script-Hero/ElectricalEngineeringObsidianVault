@@ -1,7 +1,7 @@
-When we see circuits in a "triangular" resistor configuration (Either "Delta" or "Pi"), we cannot easily simplify to find an [[Equivalent Resistance]].
+When we see [[Circuits]] in a "triangular" resistor configuration (Either "Delta" or "Pi"), we cannot easily simplify to find an [[Equivalent Resistance]].
 ![[delta_and_pi.png]]
 
-However, we can transform these circuits to a Y or T configuration to allow us to simplify easily.
+However, we can transform these [[Circuits]] to a Y or T configuration to allow us to simplify easily.
 ![[Y-T_configuration.png]]
 
 By using these conversions:

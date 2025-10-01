@@ -7,19 +7,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 This is an Obsidian vault containing academic notes for an Electrical Engineering degree. The repository is organized by course, with each folder representing a different subject:
 
 ### Course Structure
-- **Cal III/**: Multivariable Calculus (3D vectors, triple integrals, coordinate systems)
-- **Circuits/**: Circuit Analysis (Ohm's law, KCL/KVL, op-amps, AC analysis, phasors)
-- **Computer Architecture/**: Processor design, instruction sets, pipelining, cache, memory hierarchy
-- **Diff-EQ/**: Differential Equations (separable equations, Laplace transforms, linear equations)
+- **Cal III/**: Multivariable Calculus (3D [[Vectors]], triple integrals, coordinate systems)
+- **[[Circuits]]/**: Circuit Analysis ([[Ohm's Law]], [[KCL]]/[[KVL]], op-amps, AC analysis, [[Phasors]])
+- **[[Computer Architecture]]/**: [[Processor]] design, instruction sets, [[Pipelining]], [[Cache]], [[Memory]] hierarchy
+- **Diff-EQ/**: Differential Equations ([[Separable Equations]], Laplace transforms, linear equations)
 - **ECEN 248/**: Basic electrical engineering concepts
-- **Electrical Properties of Materials/**: Semiconductor physics, conductors, insulators
-- **Electronics/**: Electronic circuit design, frequency response, op-amps
-- **Machine Learning 4 ECEN/**: ML for electrical engineers (regression, classification, probability)
-- **NumericalMethods/**: Computational mathematics (Newton's method, numerical integration, ODEs)
-- **POLS207/**: Political Science (state government, federalism, elections)
-- **Phys222/**: Modern Physics (quantum mechanics, relativity, atomic structure)
-- **Physics E&M/**: Electromagnetic theory (electric fields, magnetic fields, circuits)
-- **Random Signals and Systems/**: Probability theory and random variables
+- **Electrical Properties of Materials/**: [[Semiconductor]] physics, [[Conductors]], insulators
+- **[[Electronics]]/**: Electronic circuit design, frequency response, op-amps
+- **Machine Learning 4 ECEN/**: ML for electrical engineers (regression, [[Classification]], [[Probability]])
+- **NumericalMethods/**: Computational mathematics ([[Newton's Method]], numerical integration, ODEs)
+- **POLS207/**: Political Science (state government, [[Federalism]], elections)
+- **Phys222/**: Modern Physics (quantum mechanics, relativity, [[Atomic Structure]])
+- **Physics E&M/**: Electromagnetic theory ([[Electric Fields]], magnetic fields, [[Circuits]])
+- **Random Signals and Systems/**: [[Probability]] theory and random variables
 
 ### File Organization
 - Each course folder contains individual Markdown files for specific topics
@@ -28,7 +28,7 @@ This is an Obsidian vault containing academic notes for an Electrical Engineerin
 - Mathematical equations use LaTeX syntax with `$` delimiters
 
 ### Common Patterns
-- Course index files (e.g., `Circuits.md`, `Machine Learning for EE.md`) serve as weekly syllabi with topic links
+- Course index files (e.g., `[[[[[[[[Circuits]]]]]]]].md`, `[[[[[[[[Machine Learning for EE]]]]]]]].md`) serve as weekly syllabi with topic links
 - Exam review files compile key concepts for assessments
 - Complex topics are broken into focused, single-concept notes
 - Visual aids (circuit diagrams, graphs, equations) supplement textual explanations

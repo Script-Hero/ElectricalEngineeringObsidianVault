@@ -1,8 +1,8 @@
 # ALU Control
 
-The following ALUOp commands can control the function of the ALU:
+The following ALUOp commands can [[Control]] the function of the ALU:
 
-| ALU Control Line | ALU Function |
+| ALU [[Control]] Line | ALU Function |
 | ---------------- | ------------ |
 | 0000             | AND          |
 | 0001             | OR           |
@@ -91,18 +91,18 @@ From this, we can create a truth table of the control lines based on the type of
 ![[pipeline_control_signals.png]]
 ### Association with [[Pipelining]] Stages
 1. **Instruction Fetch**
-	1. No control signals. We always read instruction memory and write to the PC
+	1. No [[Control]] signals. We always read instruction [[Memory]] and write to the PC
 2. **Instruction Decode / Register File Read**
 	1. Reg2Loc: We need to select the correct register number for Read Register 2, selecting between either Rm (bits 20:16) or Rt (bits 4:0)
 3. **Execution / Address Calculation**
 	1. ALUOp: what operation we will execute with the ALU
 	2. ALUSrc: if the second input to the ALU will be Read Data 2 or the sign-extended immediate
-4. **Memory Access**
+4. **[[Memory]] Access**
 	1. Branch: set if the instruction is CBZ
 	2. MemRead: set if the instruction is Load
 	3. MemWrite: set if the instruction is store
 5. **Write Back**
-	1. MemtoReg: decides between sending the ALU result or memory value to the register file
+	1. MemtoReg: decides between sending the ALU result or [[Memory]] value to the register file
 	2. RegWrite: which enables writing the chosen value
 
 
@@ -112,28 +112,28 @@ This table comes from the flow of information for each command:
 ### ADD X1, X2, X3
 ![[add_datapath_example.png]]
 1. The instruction is fetched and the PC is incremented
-2. Two registers, X2 and X3, are read from the register file; also, the main control unit computes the setting of the control lines during this step.
+2. Two [[Registers]], X2 and X3, are read from the register file; also, the main [[Control]] unit computes the setting of the [[Control]] lines during this step.
 3. The ALU operates on the data read from the register file, using portions of the opcode to generate the ALU function 
 4. The result from the ALU is written into the destination register X1 in the register file.
 
 ### LDUR X1, \[X2, offset]
 ![[ldur_example_datapath.png]]
-1. An instruction is fetched from the instruction memory, and the PC is incremented.
+1. An instruction is fetched from the instruction [[Memory]], and the PC is incremented.
 2. A register (X2) value is read from the register file
 3. The ALU computes the sum of the value read from the register file and the sign-extended 9 bits of the instruction (offset)
-4. The sum from the ALU is used as the address for the data memory
-5. The data memory from the memory unit is written into the register file (X1)
+4. The sum from the ALU is used as the address for the data [[Memory]]
+5. The data [[Memory]] from the [[Memory]] unit is written into the register file (X1)
 
 ### CBZ, X1, offset
 ![[cbz_example_datapath.png]]
-1. An instruction is fetched from the instruction memory, and the PC is incremented.
+1. An instruction is fetched from the instruction [[Memory]], and the PC is incremented.
 2. The register, X1, is read from the register file using bits 4:0 of the instruction (Rt)
 3. The ALU passes the data value read from the register file. The value of PC is added to the sign-extend, 19 bits of the instruction (offset) are shifted left by 2; the result is the branch target address
 4. The Zero output signal from the ALU is used to decide which adder result to store in the PC (the PC + 4 address or the base_address + offset)
 
 ### B (Unconditional)
 ![[uncond_branch_datapath.png]]
-To implement unconditional branching, we add an extra control signal and an OR gate with the UncondBranch signal (the one we just added) and the output of (Branch AND AluZero) to the MUX, to switch the next instruction from (PC + 4) to the sign-extended lower 26 bits of the branch instruction.
+To implement unconditional [[Branching]], we add an extra [[Control]] signal and an OR gate with the UncondBranch signal (the one we just added) and the output of (Branch AND AluZero) to the MUX, to switch the next instruction from (PC + 4) to the sign-extended lower 26 bits of the branch instruction.
 
 
 # Full Control Signal Description

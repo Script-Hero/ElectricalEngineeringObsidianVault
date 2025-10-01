@@ -1,4 +1,4 @@
-Magnetic field $\vec{B}$ is an *analogue* of the electric field $\vec{E}$
+Magnetic field $\vec{B}$ is an *analogue* of the [[Electric Field]] $\vec{E}$
 - They're the same thing really
 
 - The magnetic field has no effect if you are sending in perfectly in the path of the charge (moving straight on) but if you are at some angle $\theta$ then the force hits you
@@ -15,6 +15,6 @@ In a $\vec{B}$ field a charged particle moves in a circle if $\vec{v}$ and $\vec
 
 - If $\vec{E}$ and $\vec{B}$ are perpendicular for a particular $\vec{v}$ then the forces cancel 
 
-In a magnetic field, the force on an element of a current carrying wire is $d\vec{F}=id\vec{s}\times\vec{B}$
+In a magnetic field, the force on an element of a [[Current]] carrying wire is $d\vec{F}=id\vec{s}\times\vec{B}$
 - Where $d\vec{s}$ is a small length of the wire
 

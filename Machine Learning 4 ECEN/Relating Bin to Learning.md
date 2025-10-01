@@ -5,7 +5,7 @@ $$P[|E_\text{in}(h)-E_\text{out}(h)|\leq\epsilon]>1-2e^{-2\epsilon^2 N}\text{, f
 
 $E_\text{in}$ is random but known; $E_\text{out}$ is fixed but unknown.
 
-- If $E_\text{in}\approx0$ then $E_\text{out}\approx0$ with high probability
+- If $E_\text{in}\approx0$ then $E_\text{out}\approx0$ with high [[Probability]]
 	- Meaning $f\approx h$
 - If $E_\text{in}\gg0$ we're out of luck
 	- All we've learned is that $f\not\approx h$  

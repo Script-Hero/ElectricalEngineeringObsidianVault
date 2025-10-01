@@ -1,7 +1,7 @@
 Class of machine learning where the goal is to **learn a function** that maps an input to an output **based on** example input-output pairs (**labeled data**)
 
 ## Applications
-1. Image classification and object detection
+1. Image [[Classification]] and object detection
 2. Natural language processing
 3. Predictive analytics
 4. Medical Diagnosis

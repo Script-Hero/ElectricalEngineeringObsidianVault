@@ -1,6 +1,6 @@
 #Chapter7 
 
-For [[Multiple Random Variables]] $X$ and $Y$, consider a third random variable $U=g(X,Y)$ where $g(\cdot,\cdot)$ is a real-valued function.
+For [[Multiple Random Variables]] $X$ and $Y$, consider a third [[Random Signals and Systems/Random Variable|Random Variable]] $U=g(X,Y)$ where $g(\cdot,\cdot)$ is a real-valued function.
 
 - [[Probability Mass Function]] of $U$ is $p_{U}(u)=\sum\limits_{\{(x,y)|(g(x,y)=u\}}p_{X, Y}(x,y)$
 - [[Expected Value]] of $U$ is $E[U]=E[g(X,Y)]=\sum\limits_{x}\sum\limits_{y}g(x,y)p_{X,Y}(x,y)$

@@ -1,4 +1,4 @@
-If we have weights $w(t)$ and you take a step a step of size $\eta$ in the direction $\hat v$ such that $w(t+1)=w(t)+\eta\hat v$, **gradient descent** is a way to find the direction that minimizes $E_\text{in}(w(t+1))$, the [[In-Sample Error]] at the current time step $t$.
+If we have weights $w(t)$ and you take a step a step of size $\eta$ in the direction $\hat v$ such that $w(t+1)=w(t)+\eta\hat v$, **gradient descent** is a way to find the direction that minimizes $E_\text{in}(w(t+1))$, the [[In-Sample Error]] at the [[Current]] time step $t$.
 
 The best direction to move is:
 $$\hat v = -\frac{\nabla E_\text{in}(w(t))}{||\nabla E_\text{in}(w(t))||}$$

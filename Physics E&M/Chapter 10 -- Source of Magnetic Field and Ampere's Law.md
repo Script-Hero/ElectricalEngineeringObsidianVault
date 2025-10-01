@@ -8,7 +8,7 @@ For an infinitely long wire $B=\frac{\mu_{0}}{2\pi}\frac{i}{a}$
 $\oint\vec{B}\cdot d\vec{r}=\mu_{0}i$
 - Mirror's Gauss' law
 
-We can calculate magnetic fields from multiple sources using superposition
+We can calculate magnetic fields from multiple sources using [[Superposition]]
 
 
 **Ampere's Law**

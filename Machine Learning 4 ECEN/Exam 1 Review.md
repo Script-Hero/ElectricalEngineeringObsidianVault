@@ -38,8 +38,8 @@
 ---
 Student Choice Problems
 
-1. Consider a binary classification dataset draw a reasonable approximation of the [[Logistic Regression]] probability estimate for $P(Y=1|x)$
+1. Consider a binary [[Classification]] dataset draw a reasonable approximation of the [[Logistic Regression]] [[Probability]] estimate for $P(Y=1|x)$
 	1. ![[log_reg_example.png]]
 		1. *Note that the blue dots were provided*
-2. Given a [[Two Random Variables]] table with a joint [[Probability Mass Function]], find the probability of $P(X=1, Y=2)$ and the marginal probability $P(Y=2)$
+2. Given a [[Two Random Variables]] table with a joint [[Probability Mass Function]], find the [[Probability]] of $P(X=1, Y=2)$ and the marginal [[Probability]] $P(Y=2)$
 3. 

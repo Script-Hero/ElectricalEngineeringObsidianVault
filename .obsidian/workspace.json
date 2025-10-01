@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe6bd68da72ba23",
+        "id": "953670c8fc65bd19",
         "type": "tabs",
         "children": [
           {
-            "id": "263ece40735e1e25",
+            "id": "86e44a112a417402",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Electronics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electronics"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5110321044922
+    "width": 268.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "04a068a5b0513b27",
@@ -90,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phys 222 Exam 2 Studying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phys 222 Exam 2 Studying"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,8 +160,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,53 +171,62 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obisidian-note-linker:Note Linker": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "263ece40735e1e25",
+  "active": "86e44a112a417402",
   "lastOpenFiles": [
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.28379.1758841661722",
-    "Circuits/Circuits.md",
-    "Computer Architecture/Computer Architecture.md",
-    "Machine Learning 4 ECEN/Machine Learning for EE.md",
-    "POLS207/POLS 207.md",
-    "NumericalMethods/lkasf;klsajdf.md",
+    "Upper Gain Limit.md",
+    "Electronics/Electronics.md",
+    "Gain-Bandwidth Product.md",
+    "Gain Limitations.md",
+    "Electronics/Transfer Function.md",
+    "Supply Limitations.md",
+    "Electronics/Operational Amplifier.md",
+    "Integrator Op Amp.md",
+    "integrator_op_amp.png",
+    "[Linear Differential Equations.md",
+    "Circuits/Operational Amplifier.md",
+    "Common Mode Voltage.md",
+    "Common Mode Rejection Ratio.md",
+    "Instrumentation Amplifier.md",
+    "instrumentation_amplifier.png",
+    "common_mode_2.png",
+    "common_mode_voltage.png",
+    "Differential Signals.md",
+    "Circuits/Summing Amplifier.md",
+    "single_vs_differential_signals.png",
+    "Circuits/Voltage.md",
+    "Differential Signals in Op Amps.md",
+    "Circuits/Difference Amplifier.md",
+    "Electronics/Untitled.md",
+    "Electronics/Electronics/Root.md",
+    "Electronics/Electronics",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Electronics/Postlab 3.md",
+    "dfadf.md",
     "desk.md",
-    "Physics Lab/Errors in Measurement.md",
-    "Final Exschmams.md",
-    "Poker.md",
-    "Women Shit.md",
-    "Phys222/Misc Util/222 Transformed Study Guide.md",
-    "Phys222/Misc Util/222 prompt.md",
-    "Phys222/Misc Util/Phys 222 Exam 2 Default Study Guide.md",
-    "Phys222/Misc Util/Phys 222 Exam 2 Studying.md",
-    "Phys222/Misc Util/Quantum--8-21-24.md",
-    "NumericalMethods/Numerical Methods HW 6.md",
-    "Excalidraw/triangle_example.md",
-    "Chats/New Chat.md",
-    "Chats",
-    "Excalidraw/Math Modeling Example 1.md",
-    "Scratch Paper.md",
-    "Sp33ch.md",
-    "j;lj.md",
-    "Phys222/Misc Util",
-    "Diff-EQ/Midterm/Chapter 3 - Second Order Linear Equations.md",
-    "Physics E&M/Exam 3 Review Video.md",
-    "Diff-EQ/Midterm/Chapter 2 - First Order Differential Equations.md",
-    "Physics E&M/Exam 3 Speedrun",
-    "Cal III/Untitled",
-    "ECEN 248",
-    "Diff-EQ/Midterm",
-    "Physics E&M/EXAM-1",
-    "Excalidraw/Pasted image 20230905144924.png",
-    "Excalidraw/Direction Field Example.png",
-    "Physics Lab",
-    "Diff-EQ"
+    "Circuits/KVL.md",
+    "Circuits/Mesh Current.md",
+    "Physics E&M/Cross Product.md",
+    "Electronics/transfer_function_example.png",
+    "Electronics/transfer_function.png",
+    "Electronics/Pasted image 20250922033423.png",
+    "Electronics/ideal-op-amp.png",
+    "Electronics/example_rc.png",
+    "simple_cross_link.py.tmp.28379.1758843941566",
+    "simple_cross_link.py.tmp.28379.1758843892902",
+    "simple_cross_link.py.tmp.28379.1758843878445",
+    "simple_cross_link.py",
+    "simple_cross_link.py.tmp.28379.1758843539728",
+    "Computer Architecture/Chip Manufacturing.md.tmp.28379.1758843090723",
+    "cross_link_notes.py.tmp.28379.1758842931234"
   ]
 }

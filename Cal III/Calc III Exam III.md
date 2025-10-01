@@ -39,7 +39,7 @@ Points are represented by $(r,\theta,z)$
 - $\tan\theta=\frac{y}{x}$
 - $z=z$
 
-And the triple integral is $\int_{\theta=\alpha}^{\theta=\beta}\int_{r=h_{1}(\theta)}^{r=h_{2}(\theta)}\int_{z=u_{1}(r\cos\theta,r\sin\theta)}^{z=u_{2}(r\cos\theta,r\sin\theta)}f(r\cos\theta,r\sin\theta,z)dzdrd\theta$
+And the [[Triple Integral]] is $\int_{\theta=\alpha}^{\theta=\beta}\int_{r=h_{1}(\theta)}^{r=h_{2}(\theta)}\int_{z=u_{1}(r\cos\theta,r\sin\theta)}^{z=u_{2}(r\cos\theta,r\sin\theta)}f(r\cos\theta,r\sin\theta,z)dzdrd\theta$
 
 ## 15.8 Sphere Time!
 Points represented by $(\rho,\theta,\phi)$
@@ -56,13 +56,13 @@ Points represented by $(\rho,\theta,\phi)$
 - $\tan\theta=\frac{y}{x}$
 
 **Spherical coordinate triple integrals:** $\int\int\int f(\rho,\theta,\phi)\cdot \rho^{2}\sin\phi d\rho d\phi \theta$
-- *Jacobian* is $\rho^{2}\sin\phi$
+- *[[Jacobian]]* is $\rho^{2}\sin\phi$
 
 ## 15.9 Change of Variables
-- We gotta **Jacobian** on that hoe
+- We gotta **[[Jacobian]]** on that hoe
 
 If we wanna do a switcheroo so that $x=g(u,v)$ and $y=h(u,v)$:
-**Jacobian** = $\begin{bmatrix}\frac{\delta x}{\delta u}&\frac{\delta x}{\delta v}\\\frac{\delta y}{\delta u}&\frac{\delta y}{\delta v}\end{bmatrix}=\frac{\delta x}{\delta u}\frac{\delta y}{\delta v}-\frac{\delta x}{\delta v}\frac{\delta y}{\delta u}=J$
+**[[Jacobian]]** = $\begin{bmatrix}\frac{\delta x}{\delta u}&\frac{\delta x}{\delta v}\\\frac{\delta y}{\delta u}&\frac{\delta y}{\delta v}\end{bmatrix}=\frac{\delta x}{\delta u}\frac{\delta y}{\delta v}-\frac{\delta x}{\delta v}\frac{\delta y}{\delta u}=J$
 
 Let's us transform $\int \int f(x,y)dA=\int \int f(x(u,v),y(u,v))|J|dA$
 

@@ -9,6 +9,6 @@ Outcomes are predicted with a [[Probability Density Function]]
 - [[Expected Value]] $E[X]=\int\limits_{-\infty}^{\infty}xf_{x}(x)dx$
 	- For a [[Functions of Random Variables]] $E[g(x)]=\int\limits_{-\infty}^{\infty}g(x)f_{X}(x)dx$
 - [[Variance]] $Var[X]=\int\limits_{-\infty}^{\infty}(x-E[X])^2f_{X}(x)dx$
-	- Using [[Moments]], Variance is $Var[X]=E[X^2]-(E[X])^2$
+	- Using [[Moments]], [[Random Signals and Systems/Variance|Variance]] is $Var[X]=E[X^2]-(E[X])^2$
 - [[Linearity of Expectation]] $E[aX + b] = aE[X]+b$
 - 

@@ -1,4 +1,4 @@
-[[First Order Circuits]] with *Alternating Current*, meaning that [[Voltage]] is sinusoidal:
+[[First Order Circuits]] with *Alternating [[Current]]*, meaning that [[Voltage]] is sinusoidal:
 $$v_\text{in}=A\cos(\omega t+\theta)$$
 Where:
 - $A$ is amplitude

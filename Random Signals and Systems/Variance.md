@@ -4,7 +4,7 @@ $$
 Var[X]=E[(X-E[X])^2]
 $$
 - Always non-negative
-- [[Standard Deviation]] is the square root of variance $\sigma(X)=\sqrt{ Var[X] }$
+- [[Standard Deviation]] is the square [[Electronics/Electronics/Root|Root]] of variance $\sigma(X)=\sqrt{ Var[X] }$
 
 ### In terms of [[Moments]]
 - Variance can also be computed as $E[X^2]-(E[X])^2$

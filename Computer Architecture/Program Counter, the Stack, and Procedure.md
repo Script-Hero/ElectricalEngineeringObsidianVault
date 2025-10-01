@@ -1,5 +1,5 @@
 1. The Program Counter
-	1. Programs are stored in the memory, as same as data (data is 64-bit long, **instructions are 32-bit long**)
+	1. Programs are stored in the [[Memory]], as same as data (data is 64-bit long, **instructions are 32-bit long**)
 	2. Instructions are executed **in sequence** (if no branch). To indicate which instruction is to be executed, we have a **program counter** to record the address of the instruction, abbreviated as **PC**.
 	3. PC is a register
 		1. Contains address of instruction to be executed
@@ -31,15 +31,15 @@
 		2. Then when we're done in our procedure, we can do BR X30 to execute the next instruction in the main procedure
 6. Passing parameters
 	1. Convention useful for programmers
-	2. Need a set of registers to pass arguments / parameters to a procedure
+	2. Need a set of [[Registers]] to pass arguments / parameters to a procedure
 	3. If a procedure calls another procedure, these arguments are *also* saved on the stack
 7. Frame pointer vs Stack pointer
 	1. The frame pointer (FP or X29) points to the first doubleword of the frame, often a saved argument register
-	2. The stack pointer (SP or X28) points to the top of the stack and is adjusted to make room for all the saved registers and memory-resident local variables
+	2. The stack pointer (SP or X28) points to the top of the stack and is adjusted to make room for all the saved [[Registers]] and [[Memory]]-resident local variables
 	3. *If there are no local variables on the stack the compiler will save time by not setting and restoring the frame pointer*
 	4. When a frame pointer is used, it is initialized using the address in the stack pointer on a call, and the stack pointer is restored using the frame pointer
 	5. ![[frame_pointer_illustration.png]]
-8. Memory usage
+8. [[Memory]] usage
 	1. The user address space is set to $2^{39}$ of the potential $2^{64}$ total address space given a 64-bit architecture. 
 	2. The stack pointer is initialized to (illegible) and grows *down* towards the data segment. 
 	3. At the other end, the program code ("text") starts at (illegible). 

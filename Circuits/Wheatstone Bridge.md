@@ -3,7 +3,7 @@ A Wheatstone Bridge is a circuit used to measure the value of an unknown resisto
 ![[wheatstone_bridge.png]]
 - (Where $R_3$ is a potentiometer)
 
-The resistance of the potentiometer $R_3$ is varied until the ammeter (amp measuring device, the arrow in the center of the circuit) shows *no current between nodes $a$ and $b$* (which equivalently means there is no voltage drop either).
+The resistance of the potentiometer $R_3$ is varied until the ammeter (amp measuring device, the arrow in the center of the circuit) shows *no [[Current]] between nodes $a$ and $b$* (which equivalently means there is no [[Voltage]] drop either).
 
 This implies:
 - $I_1=I_3$

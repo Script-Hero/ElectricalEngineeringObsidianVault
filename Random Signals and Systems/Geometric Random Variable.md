@@ -11,5 +11,5 @@ Examples:
 
 ### Memoryless Property
 Satisfies the *memoryless property* $P(X=k+j|X>k)=P(X=j)$
-- Meaning that the probability that the number of trials carried out before completion is $k+j$, given $k$ unsuccessful trials, is equal to the unconditioned probability that the total number of trials is $j$
-- "In english" this means that if you've been flipping a coin and waiting for heads (geometric trial) and you've already done $k$ flips, the probability that you'll need $j$ more flips is the same as though you were starting fresh.
+- Meaning that the [[Probability]] that the number of trials carried out before completion is $k+j$, given $k$ unsuccessful trials, is equal to the unconditioned [[Probability]] that the total number of trials is $j$
+- "In english" this means that if you've been flipping a coin and waiting for heads (geometric trial) and you've already done $k$ flips, the [[Probability]] that you'll need $j$ more flips is the same as though you were starting fresh.

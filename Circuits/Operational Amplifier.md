@@ -1,6 +1,6 @@
 ![[opamp_description.png]]
 
-An operational amplifier (op-amp) is an amplifier that produces an output which is proportional to the voltage difference between the input terminals.
+An operational amplifier (op-amp) is an amplifier that produces an output which is proportional to the [[Voltage]] difference between the input terminals.
 # Characteristics
 1. **Linear Input-Output Response, High Gain**
 	1. Open-loop gain is $A$ 
@@ -12,12 +12,12 @@ An operational amplifier (op-amp) is an amplifier that produces an output which 
 3. **Low Output Resistance**
 	1. $R_o$
 	2. Ideal is $0\Omega$  
-4. **Power Source**
+4. **[[Power]] Source**
 	1. DC, $\pm V_{cc}$
 	2. Can be whatever
 5. **Virtual Short Circuit**
 	1. If an op-amp is operating in linear mode, $v_p=v_n$
-- Voltage can never exceed $\pm V_{cc}$
+- [[Voltage]] can never exceed $\pm V_{cc}$
 
 
 # Solving Using Characteristics

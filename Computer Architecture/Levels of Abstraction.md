@@ -3,5 +3,5 @@ When you try to tell a computer to do a task, you write high-level language, whi
 2. *Compiler*
 3. Assembly Language
 4. *Assembler*
-5. *Linker (Potentially)*
+5. *[[Linker]] (Potentially)*
 6. Machine Language (1s and 0s)

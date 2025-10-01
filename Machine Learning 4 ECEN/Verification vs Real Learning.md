@@ -2,20 +2,20 @@
 - Given $h\in H$ a sample can **verify** whether or not $h$ is good with respect to $f$
 	- If $E_\text{in}$ is small, $h$ is good with high confidence 
 	- If $E_\text{in}$ is large, $h$ is bad with high confidence 
-- We have no control over $E_\text{in}$
+- We have no [[Control]] over $E_\text{in}$
 
 - In learning, you actually **fit** the data, as with the [[Perceptron Learning Algorithm]].
-	- $g$ results from searching an entire hypothesis set $H$ for a hypothesis with small $E_\text{in}$
+	- $g$ results from searching an entire [[Hypothesis]] set $H$ for a [[Hypothesis]] with small $E_\text{in}$
 
 ## Verification
 - Fixed single [[Hypothesis]] $h$ 
 - $h$ to be certified
 - $h$ does not depend on data $D$ 
-- No control over [[In-Sample Error]]
+- No [[Control]] over [[In-Sample Error]]
 - **Checking if $h(x)$ is good**
 
 ## Real Learning
-- Fixed *hypothesis set* $H$
+- Fixed *[[Hypothesis]] set* $H$
 - $g$ to be certified 
 - $g$ results after searching $H$ to fit $D$
 - Pick best [[In-Sample Error]]

@@ -1,0 +1,6 @@
+- Providing services is the principal function of local government
+- Extremely diverse
+- Local government functions differ by state:
+	- Counties: rural or urban
+	- Cities or towns
+	- [[School Districts]]

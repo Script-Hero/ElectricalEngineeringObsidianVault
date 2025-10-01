@@ -18,10 +18,10 @@ Verify that you did cross product right by taking the *dot product* of the outpu
 
 ---
 
-Note that in problems asking for $\theta$ between 2 vectors we can always use the dot product $\vec{A}\vec{B}\cos\theta$ formula to solve for $\theta$ before applying $\vec{A}\vec{B}\sin\theta$
+Note that in problems asking for $\theta$ between 2 [[Vectors]] we can always use the dot product $\vec{A}\vec{B}\cos\theta$ formula to solve for $\theta$ before applying $\vec{A}\vec{B}\sin\theta$
 
 ---
-You can use the magnitude of the *cross product* to find area within 2 3D vectors.
+You can use the magnitude of the *[[Cross Product]]* to find area within 2 3D [[Vectors]].
 
 Example: Area of triangle $PQR$ at $P=(1, 0 , 0)$, $Q=(0, 2, 0)$, $R=(0, 0 , 3)$ is $\frac{1}{2}|\vec{PR} \times \vec{PQ}|$
 

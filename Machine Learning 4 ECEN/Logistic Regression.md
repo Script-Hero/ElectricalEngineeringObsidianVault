@@ -1,4 +1,4 @@
-Good for [[Classification]] type problems, where the outputs will be a probability between $0$ and $1$.
+Good for [[Classification]] type problems, where the outputs will be a [[Probability]] between $0$ and $1$.
 $$
 h(x)=\sigma(\sum\limits_{i=0}^{d}w_ix_i)=\sigma(w^Tx)
 $$

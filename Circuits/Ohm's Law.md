@@ -1,5 +1,5 @@
 $$V=I\cdot R$$
-- Voltage
-- Current
+- [[Voltage]]
+- [[Current]]
 - Resistance
 

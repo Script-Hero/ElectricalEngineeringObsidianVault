@@ -1,6 +1,6 @@
 #Chapter7 
 
-Uses [[Linearity of Expectation]] to find the probability of [[Multiple Random Variables]], after being randomly arranged, appear (or do not appear) in their original positions.
+Uses [[Linearity of Expectation]] to find the [[Probability]] of [[Multiple Random Variables]], after being randomly arranged, appear (or do not appear) in their original positions.
 
 #### Example Problem
 

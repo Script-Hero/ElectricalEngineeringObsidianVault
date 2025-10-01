@@ -1,11 +1,11 @@
 #Chapter5
 
 - A real-valued function of the experimental outcome
-- Mapping of the sample space to an actual outcome / output value
+- Mapping of the [[Sample Space]] to an actual outcome / output value
 - *Examples*
 	- Sum of 2 die rolls
 	- Amount of time needed to transmit a message
-	- The second die roll raised to the 5th power
+	- The second die roll raised to the 5th [[Power]]
 - *Types:*
 	- [[Discrete Random Variable]]
 		- [[Bernoulli Random Variable]]

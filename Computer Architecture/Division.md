@@ -5,7 +5,7 @@ Restoring Division (Binary Division Algorithm)
 
 ![[divison_illustrtion_registers.png]]
 
-1. Initialize Registers
+1. Initialize [[Registers]]
 	1. Place dividend (**N**) in the **lower half** of the remainder register
 	2. Set the **upper half** of the remainder register to $0$s 
 	3. Load the divisor to register D
@@ -20,7 +20,7 @@ Restoring Division (Binary Division Algorithm)
 3. The quotient is the lower half of the remainder register, and the remainder is the upper half
 
 ## Example: $9\div2$
-1. Initialize registers
+1. Initialize [[Registers]]
 	1. Dividend (N) = 1001 (9 in decimal)
 	2. Divisor (D) = 0010 (2 in decimal)
 	3. Result register = 0000 1001 (remainder & quotient)

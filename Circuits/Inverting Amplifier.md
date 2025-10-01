@@ -1,10 +1,10 @@
-[[Operational Amplifier]] configuration that produces an output that is a negative multiple of the input signal.
+[[Circuits/Operational Amplifier]] configuration that produces an output that is a negative multiple of the input signal.
 
 ![[inverting_amp.png]]
 
 $$v_o=-\frac{R_f}{R_s}v_s$$
 
-We derive this from the [[Operational Amplifier]] characteristics:
+We derive this from the [[Circuits/Operational Amplifier]] characteristics:
 1. $v_p=v_n=0$
 2. $i_s=\frac{v_s}{R_s},i_f=\frac{v_o}{R_f}$
 3. $i_n=i_s+i_f=0$

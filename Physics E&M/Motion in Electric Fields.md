@@ -1,5 +1,5 @@
 
-Force on a charge *from* an electric field $\vec{F}=q\vec{E}$
+Force on a charge *from* an [[Electric Field]] $\vec{F}=q\vec{E}$
 - Comes from $\vec{E}=\lim_{q\to0}\frac{\vec{F}}{q_0}$
 
 We can use this to get beams of charged particles.

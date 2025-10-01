@@ -63,11 +63,11 @@ $$\text{Gini}=1-\sum\limits_{i=1}^{k}p_i^2$$
 	- This works in any number of dimensions
 - Choose the $k$ nearest (smallest distance)
 - Whatever the majority has as its class (binary) is the prediction you take
-**Special case** is *bag of words* where each document (like an email) becomes a vector of word counts, where index $i$ of the vector is always the word counts of the same word $i$ across all documents
+**Special case** is *bag of [[words]]* where each document (like an email) becomes a vector of word counts, where index $i$ of the vector is always the word counts of the same word $i$ across all documents
 - Then you do normal KNN prediction for label
 
 # Logistic Regression
-- Used for **binary classification**
+- Used for **binary [[Classification]]**
 - Predicts using function $$\hat p (y=1|\pmb x)=\sigma(\pmb w^T\pmb x+b)=\frac 1 {1+e^{-(\pmb w^T\pmb x+b)}}$$
 - Where sigmoid (logistic) activation function has the formula: $\sigma(z)=\frac 1 {1+e^{-z}}$
 	- Note that $\sigma(\sum\limits_{i=0}^d=\sigma(\pmb w^T\pmb x)$
@@ -78,8 +78,8 @@ $$\text{Gini}=1-\sum\limits_{i=1}^{k}p_i^2$$
 
 # Support Vector Machine
 - Finds the **best boundary (hyperplane)** that separates classes in a dataset
-	- For *binary classification* it tries to find the **hyperplane that maximizes the margin** between the 2 classes
-	- the **support vectors** are the training points **closest to the hyperplane** that "support" or *define the boundary*
+	- For *binary [[Classification]]* it tries to find the **hyperplane that maximizes the margin** between the 2 classes
+	- the **support [[Vectors]]** are the training points **closest to the hyperplane** that "support" or *define the boundary*
 ## The Margin
 Given:
 - $\pmb w$ is the weight vector (defines orientation of the hyperplane)
@@ -115,7 +115,7 @@ $$y^{(i)}(\pmb w^T\pmb x^{(i)}+b)\geq1-\xi_i\text{, for all }i$$
 
 
 ## Regularization
-- $C$ controls the trade-off between maximizing the margin and minimizing the classification error
+- $C$ controls the trade-off between maximizing the margin and minimizing the [[Classification]] error
 - Large $C$ = heavily penalizes misclassification = *hard margin*
 - Small $C$ = allows more misclassifications = *wider margin*
 ![[regularization_visualization.png]]

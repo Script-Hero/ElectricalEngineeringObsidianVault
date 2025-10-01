@@ -1,10 +1,10 @@
 #Phys-EM 
 
 - Electric charges exert forces on one another at a distance
-- Imagine that a charge impacts the space around it by generating an "electric field"
-- We can measure an electric field by examing its effect on a small "test" charge:
+- Imagine that a charge impacts the space around it by generating an "[[Electric Field]]"
+- We can measure an [[Electric Field]] by examing its effect on a small "test" charge:
 	- $\vec{E}(\vec{r})=\lim_{q_0\to0}\frac{\vec{F}(\vec{r})}{q_0}$
-	- When we put a test charge into our system we *do not* want our test charge to introduce a significant electric field of its own.
+	- When we put a test charge into our system we *do not* want our test charge to introduce a significant [[Electric Field]] of its own.
 	- Imagine how we can test Earth's gravitational field by dropping a "test rock" and seeing how it falls. Technically our test rock has its own gravitational field but its not much.
 
 Coulomb Field from charge $q$
@@ -38,7 +38,7 @@ Total combined $\vec{E}=\frac{3q}{\pi\epsilon_{0}L^{2}}$
 ---
 
 **Example:**
-Find the electric field from an infinitely long, thin wire w uniform charge density $\lambda$
+Find the [[Electric Field]] from an infinitely long, thin wire w uniform charge density $\lambda$
 $dE = \frac{d_q}{4\pi\epsilon_{0}}\frac{1}{r^{2}\hat{r}}\Rightarrow \vec{E}=\frac{1}{4\pi\epsilon_{0}}\int\frac{\lambda}{r^2}\hat{r}dl$
 
 $\vec{E}=\frac{1}{4\pi\epsilon_0}\int^{\infty}_{-\infty}\lambda\frac{-x\hat{i_{x}}+ d\hat{i_r}}{(x^{2}+d^{2})^{\frac{3}{2}}}$

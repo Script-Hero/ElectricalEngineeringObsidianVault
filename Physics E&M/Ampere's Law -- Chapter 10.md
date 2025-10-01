@@ -1,7 +1,7 @@
 #Phys-EM 
 
 $\oint \vec{B} \cdot d\vec{r} = \mu_{0}i_{enc}$
-The magnetic field across the boundary of an area is the current through that area times $\mu_{0}$
+The magnetic field across the boundary of an area is the [[Current]] through that area times $\mu_{0}$
 
 **We use this a lot like Gauss' Law!**
 

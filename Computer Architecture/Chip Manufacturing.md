@@ -1,4 +1,4 @@
-[[Integrated Circuit]] manufacturing beings with silicon (semiconductor):
+[[Integrated Circuit]] manufacturing beings with silicon ([[Semiconductor]]):
 1. Silicon crystal ingot (5-8" diameter, 8" long)
 2. Sliced into wafers (0.1" thick)
 3. Chopped into dies (or chips)

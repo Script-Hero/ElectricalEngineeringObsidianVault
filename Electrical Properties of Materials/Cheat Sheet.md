@@ -1,6 +1,6 @@
 # QUIZ CHEAT SHEET (Merged — everything in one place)
 
-> Conventions: SI units unless otherwise stated. Inline math uses $\dots$. Vectors in **bold** when helpful; magnitudes usually implied. Effective mass $m^\ast$. Elementary charge magnitude $e$ (use $q=\pm e$ for sign).
+> Conventions: SI units unless otherwise stated. Inline math uses $\dots$. [[Vectors]] in **bold** when helpful; magnitudes usually implied. Effective mass $m^\ast$. Elementary charge magnitude $e$ (use $q=\pm e$ for sign).
 
 ---
 

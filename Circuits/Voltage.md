@@ -1,5 +1,5 @@
 - Associated with the displacement / concentration of electron charge
-- Electric potential, imagine water flowing down a hill
+- [[Electric Potential]], imagine water flowing down a hill
 $$
 V_{ab}=\frac{dw}{dq}
 $$

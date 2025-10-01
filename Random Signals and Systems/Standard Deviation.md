@@ -1,3 +1,3 @@
 #Chapter6 
 
-Square root of [[Variance]], $\sigma(X)=\sqrt{ Var[X] }$
+Square [[Electronics/Electronics/Root|Root]] of [[Variance]], $\sigma(X)=\sqrt{ Var[X] }$

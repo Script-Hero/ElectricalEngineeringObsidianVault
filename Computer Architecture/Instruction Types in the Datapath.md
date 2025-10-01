@@ -1,6 +1,6 @@
 ![[instruction_datapath_effect.png]]
-- Where deasserted means the control signal is set to 0 and asserted means it is set to 1
-- Note that all *state elements* also have a clock signal as an **implicit** input to control writes
+- Where deasserted means the [[Control]] signal is set to 0 and asserted means it is set to 1
+- Note that all *state elements* also have a clock signal as an **implicit** input to [[Control]] writes
 	- Gating the clock externally to a state object can create timing problems
 
 

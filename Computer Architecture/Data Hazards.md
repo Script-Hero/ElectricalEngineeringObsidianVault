@@ -11,7 +11,7 @@ We insert three *bubbles* to resolve the data hazard. This ends up resolving all
 
 ## With Forwarding
 ![[with_forwarding_data_hazad.png]]
-The dependencies between the pipeline registers *move forward in time*. We can use the $\text{and}$ instruction and $\text{or}$ instruction without delaying by **forwarding the value in the pipeline register directly rather than stall**
+The dependencies between the pipeline [[Registers]] *move forward in time*. We can use the $\text{and}$ instruction and $\text{or}$ instruction without delaying by **forwarding the value in the pipeline register directly rather than stall**
 -  We assume reading and writing can occur during the same clock cycle
 	- so during CC 5, X2 is 10 at the beginning and -20 at the end 
 	- $\text{add}$ does not stall but the values come from the register file instead of a pipeline register

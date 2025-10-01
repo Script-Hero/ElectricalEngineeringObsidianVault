@@ -1,11 +1,11 @@
 #Phys-EM 
 - Uses [[Coulomb's Law]] 
-- Take an infinitesimally small point of the shape and calculate Coulomb's law on it to find charge, then integrate this to take the sum of all the infinitesimally small points which gives the total charge of the shape
+- Take an infinitesimally small point of the shape and calculate [[Coulomb's Law]] on it to find charge, then integrate this to take the sum of all the infinitesimally small points which gives the total charge of the shape
 - For a 3D shape like a thick cylindrical rod, you use cylindrical shells as your infinitesimal points
 
 ### For the exam, know how to solve line distributed charge problems and circular distributed charge problems
 
-Solve with modified Coulomb's law that replaces a constant charge with an integral.
+Solve with modified [[Coulomb's Law]] that replaces a constant charge with an integral.
 
 ## Example:
 A thin ring of radius $R$ has a charge $Q$ uniformly distributed. A charge $q$ is at a distance of $L$ from the center of the ring along its axis of symmetry.

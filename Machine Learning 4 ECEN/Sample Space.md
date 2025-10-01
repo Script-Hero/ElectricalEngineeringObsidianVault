@@ -1,4 +1,4 @@
-Probability is defined in terms of some **experiment**:
+[[Probability]] is defined in terms of some **experiment**:
 - Experiment of tossing a coin
 - Experiment of rolling a die twice
 

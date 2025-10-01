@@ -1,6 +1,6 @@
 Exchange data in [[Memory]] with data in [[Registers]]. 
 
-**Alignment:** In many computers, *words* must start at address multiples of 4, and *double-words* must start at address multiples of 8
+**Alignment:** In many computers, *[[words]]* must start at address multiples of 4, and *double-[[words]]* must start at address multiples of 8
 - ARMv8 and Intel X86 don't need alignment. 
 - ARMv7 and MIPS do need alignment
 - ARMv8 Instruction fetch needs alignment (an instruction is 4-byte long) as well as stack access
@@ -13,14 +13,14 @@ Can have 64 as the start address, and update X22 by X22 + 8 every time, so X22 i
 
 # Operations
 ## Load
-**Load** (*register number*) (*memory address*)
-- Memory address = content of base register + offset
+**Load** (*register number*) (*[[Memory]] address*)
+- [[Memory]] address = content of base register + offset
 ```armasm
 LDUR X9, [X22 #64] // Load the contents of register X22 + 64 bits into the register X9
 ```
 ## Store
-**Store** (*register number*) (*memory address*)
-- Memory address = content of base register + offset
+**Store** (*register number*) (*[[Memory]] address*)
+- [[Memory]] address = content of base register + offset
 ```armasm
 STUR X8, [X19, #4] // Move the contents of register 8 to the memory address that is the contents of register X19 + 4 bits
 ```

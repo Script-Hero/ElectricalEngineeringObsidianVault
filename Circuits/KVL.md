@@ -1,2 +1,2 @@
-- Kirchhoff's Voltage Law
+- Kirchhoff's [[Voltage]] Law
 - The sum of the voltages across each element in a **closed loop** is zero

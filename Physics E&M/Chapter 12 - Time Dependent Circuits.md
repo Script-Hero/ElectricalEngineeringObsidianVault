@@ -5,7 +5,7 @@
 
 $\oint\vec{E}d\vec{r}=-\frac{d}{dt}\int\vec{B}\cdot d\vec{S}=-\frac{d}{dt}\int(\vec{B}_{self}+\vec{B}_{ext})\cdot d\vec{S}=-L\frac{di}{dt}-\frac{d}{dt}\int\vec{B}_{ext}\cdot d\vec{S}\neq0$
 
-- The electric field gives positive work on a charge moving across the *inductor*
+- The [[Electric Field]] gives positive work on a charge moving across the *inductor*
 
 
 **Now the loop lap is Faraday's Law lol**

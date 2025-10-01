@@ -1,4 +1,4 @@
-With [[Inductors]] and [[Capacitors]] in our circuits, we need to solve [[First Order Differential Equations]] 
+With [[Inductors]] and [[Capacitors]] in our [[Circuits]], we need to solve [[First Order Differential Equations]] 
 
 ## General Approach
 1. Use [[KVL]] / [[KCL]] to find the differential equation which describes the circuit
@@ -13,17 +13,17 @@ With [[Inductors]] and [[Capacitors]] in our circuits, we need to solve [[First 
 	- $v=-iR=L\frac{di}{dt}\rightarrow \frac{di}{dt}+\frac R L i=0$
 - We can also rewrite the resistor equation $v=-iR\rightarrow\frac{dv}{dt}=-R\frac{di}{dt}$
 - $\frac{di}{dt}=\frac v L = -\frac 1 R \frac {dv}{dt}\rightarrow \frac{dv}{dt}+\frac R L v = 0$
-	- Note that this is the same equation that the current satisfied
+	- Note that this is the same equation that the [[Current]] satisfied
 
 ## Finding the Differential Equation for an RC Circuit
 ![[rc_example.png]]
 - For the capacitor $i=C\frac{dv}{dt}$
 - For the resistor $v=-iR\rightarrow\frac{dv}{dt}=-R\frac{di}{dt}$
-- Since the voltage across the resistor and the capacitor are the same:
+- Since the [[Voltage]] across the resistor and the capacitor are the same:
 	- $\frac{dv}{dt}=\frac i C=-R\frac{di}{dt}\rightarrow\frac{di}{dt}+\frac 1 {RC}i=0$
-- *Not shown, but voltage leads to the same differential equation*
+- *Not shown, but [[Voltage]] leads to the same differential equation*
 
-## Finding the DEQ for 1st Order Circuits **with Sources**
+## Finding the DEQ for 1st Order [[Circuits]] **with Sources**
 *Adding sources may result in non-homogeneous ODEs*
 ![[first_order_with_source.png]]
 - For the capacitor $i_C=C\frac{dv}{dt}$

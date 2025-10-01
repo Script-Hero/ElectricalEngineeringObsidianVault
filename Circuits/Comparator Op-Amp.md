@@ -1,4 +1,4 @@
-Configuration of [[Operational Amplifier]] circuit that causes the op-amp to saturate if the input voltage exceeds a certain value.
+Configuration of [[Circuits/Operational Amplifier]] circuit that causes the op-amp to saturate if the input [[Voltage]] exceeds a certain value.
 
 # Theory
 If the op-amp differential input $v_p-v_n$ exceeds a certain small threshold, $v_o$ saturates to $+V_{cc}$ and if it is below a small threshold $v_o$ saturates to $-V_{cc}$.
@@ -21,7 +21,7 @@ If the op-amp differential input $v_p-v_n$ exceeds a certain small threshold, $v
 
 ##  Noninverting Schmitt Trigger
 ![[Noninverting Schmitt Trigger.png]]
- - Both $v_s$ (the comparison voltage) and the feedback resistor $R_f$ are connected to the $v_p$ pin
+ - Both $v_s$ (the comparison [[Voltage]]) and the feedback resistor $R_f$ are connected to the $v_p$ pin
  - $V_{UT}=\frac{R_i}{R_f}(+V_{cc})$ and $V_{LT}=\frac{R_i}{R_f}(-V_{cc})$
  - When $v_p$ goes from below $V_{UT}$ to above $V_{UT}$ the output becomes $+V_{cc}$
  - When $v_p$ goes from above $V_{LT}$ to below $V_{LT}$ the output becomes $-V_{cc}$

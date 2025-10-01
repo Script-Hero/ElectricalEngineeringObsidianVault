@@ -2,7 +2,7 @@
 - Ideally, $g(x_n)=y_n$
 	- Minimizes [[In-Sample Error]]
 
-The idea behind the learning algorithm is to randomly initialize some weight vector $w$ and then try to improve it.
+The idea behind the [[Learning Algorithm]] is to randomly initialize some weight vector $w$ and then try to improve it.
 
 ## Algorithm
 1. $w(1)=0$

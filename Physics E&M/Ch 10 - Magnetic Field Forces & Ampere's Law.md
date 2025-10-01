@@ -3,7 +3,7 @@
 **Magnetic Fields come from moving electric charges!**
 - Moving electric charges experience magnetic force
 - Newton's Third Law says forces exert equal and opposite force
-- Therefore moving charges (current) causes magnetic field
+- Therefore moving charges ([[Current]]) causes magnetic field
 
 **Strength of Magnetic Field** $B=\frac{\mu_{0}}{2\pi}\frac{i}{r}$
 - $\mu_{0}$ is $\epsilon_{0}$ for magnetism
@@ -16,7 +16,7 @@
 
 
 ### Example: 
-**Find the magnetic field from a thin loop of current at an arbitrary distance along the loop's axis of symmetry.**
+**Find the magnetic field from a thin loop of [[Current]] at an arbitrary distance along the loop's axis of symmetry.**
 
 ```
         /----\

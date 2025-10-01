@@ -3,7 +3,7 @@
 A [[Joint Probability Mass Function]] for [[Multiple Continuous Random Variables]].
 
 
-Given 2 [[Continuous Random Variable]]s $X$ and $Y$, their *joint probability density function* $f_{X,Y}(\cdot,\cdot)$ is 
+Given 2 [[Continuous Random Variable]]s $X$ and $Y$, their *joint [[Random Signals and Systems/Probability Density Function|Probability Density Function]]* $f_{X,Y}(\cdot,\cdot)$ is 
 $$
 P((X,Y)\in S)=\int_{x\in S}\int_{y\in S} f_{X,Y}(x,y)dxdyu
 $$

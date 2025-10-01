@@ -8,7 +8,7 @@ Surface area: $\int\int|\vec{r}_{u}\times\vec{r}_{v}|dudv$
 - the function is given, you convert to a function of $u$ and $v$, the bounds are given by the "constraint shape"
 - if there's a function involved it could be $\int\int\mathbf{F}\cdot|\vec{r}_{u}\times\vec{r}_{v}|$
 Divergence or Finding Flux (probably also div. theorem): $\int\int_{S}\mathbf{F} =\int\int\int div(\mathbf{F})$
-- Makes a surface integral easier for ugly vectors. Bounds come from the constraint shape
+- Makes a surface integral easier for ugly [[Vectors]]. Bounds come from the constraint shape
 
 Work: $\int \vec{F(t)} \cdot \vec{r'(t)}$ 
 - Where $r$ is the path and $F$ is given. The bounds of the integral also come from the path
@@ -22,7 +22,7 @@ When your path integral is too hard, use Stoke's Theorem: $\int_{C}\mathbf{F}=\i
 Local and absolute extrema.
 
 ## 16.1 Vector Fields 
-A vector field is a function whose domain is a set of points in $\mathbb{R^{2}}$ or  $\mathbb{R^{3}}$ whose range is a set of vectors.
+A vector field is a function whose domain is a set of points in $\mathbb{R^{2}}$ or  $\mathbb{R^{3}}$ whose range is a set of [[Vectors]].
 - Gradient of a vector field $\nabla f(x,y)=f_{x}(x,y)i+ f_{y}(x,y)j$
 
 ## 16.2 Line Integrals
@@ -86,7 +86,7 @@ $\int_{C} F\cdot dr = \int\int_{S}curl\mathbf{F}\cdot dS=\int\int_{D}curl\mathbf
 - allows us to compute a line integral over a closed curve in space
 
 ## 16.9 The Divergence Theorem
-A surface integral over a **closed surface** $S$ can be evaluated as a triple integral over the volume enclosed by the surface.
+A surface integral over a **closed surface** $S$ can be evaluated as a [[Triple Integral]] over the volume enclosed by the surface.
 
 **Divergence Theorem** Let $E$ be a simple solid region whose boundary surface $S$ has positive (outward) orientation. Let $\mathbf{F}$ be a vector field whose component function have continuous partial derivatives on an open region that contains $E$. Then:
 $$

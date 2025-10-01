@@ -1,6 +1,6 @@
 Imagine a bin with red and green marbles.
 - Pick a sample of $N$ marbles *independently*
-- $\mu$ is the probability to pick a red marble
+- $\mu$ is the [[Probability]] to pick a red marble
 - $\nu$ is the fraction of red marbles in the *sample*
 
 **Can we say anything *definitive* about $\mu$ (*outside the data*) after observing $\nu$ (*the data*)?**

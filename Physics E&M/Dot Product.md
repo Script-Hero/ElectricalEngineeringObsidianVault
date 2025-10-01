@@ -1,6 +1,6 @@
 
-A type of vector multiplication
-- A measure of how much 2 vectors point in the same direction
+A type of vector [[Multiplication]]
+- A measure of how much 2 [[Vectors]] point in the same direction
 - AKA "inner product" or "scalar product"
 
 $\vec{A} \cdot \vec{B} = AB\cos\theta = A_{x}B_{x} + A_{y}B_{y}$

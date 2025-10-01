@@ -8,4 +8,4 @@ A combination of [[Bagging]] and decision trees.
 		2. Pick the best split dimension and split value among the $m$ features
 		3. Build two children
 2. **End for**
-3. Return: average for regression; vote for classification
+3. Return: average for regression; vote for [[Classification]]

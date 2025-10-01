@@ -10,7 +10,7 @@ $\text{Multiplicand}\times\text{Multiplier}$
 
 ![[multiplication_register_view.png]]
 
-1. Initialize Registers
+1. Initialize [[Registers]]
 	1. Store Multiplicand in register M
 	2. Store Multiplier in the **lower half** of the product register P
 	3. Set the upper half of the product register P to 0

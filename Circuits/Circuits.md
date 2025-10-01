@@ -26,7 +26,7 @@
 # 2.10.25
 - [[Superposition]]
 - [[Maximum Power Transfer]]
-- [[Operational Amplifier]]
+- [[Circuits/Operational Amplifier]]
 
 ---
 # 2.17.25

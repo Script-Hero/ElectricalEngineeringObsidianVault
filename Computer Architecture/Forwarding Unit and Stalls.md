@@ -23,7 +23,7 @@ STUR X15,[X2,#100] // Base (X2) depends on SUB
 
 The last 4 instructions are all dependent on the result in register X2 of the first instruction. 
 
-Data hazards become apparent when we use a diagram:
+[[Data Hazards]] become apparent when we use a diagram:
 ![[data_hazard_pipeline_demonstration.png]]
 - The register value for X2 is being forwarded backwards in time, which is not possible
 
@@ -45,7 +45,7 @@ AND X12,X2,X5 // 1st operand(X2) depends on SUB
 # Rules for Detecting Hazards (Forwarding Unit)
 If we can take the data from any pipeline register and deliver it to the ALU, we can forward the correct data. We do this by adding additional multiplexors. 
 
-This forwarding control will be in the EX stage, because that is where the ALU forwarding multiplexors are found. Therefore we must pass the operand register numbers from ID via ID/EX to check the rules for a hazard. Before this, Rn and Rm were not included in ID/EX. 
+This forwarding [[Control]] will be in the EX stage, because that is where the ALU forwarding multiplexors are found. Therefore we must pass the operand register numbers from ID via ID/EX to check the rules for a hazard. Before this, Rn and Rm were not included in ID/EX. 
 
 ![[forwarding_unit_datapath.png]]
 ![[detect_data_hazards.png]]
@@ -97,7 +97,7 @@ ADD X1,X1,X4
 One case where forwarding cannot save the day is when an instruction tries to read a register following a load instruction that writes the same register:
 ![[stalling_diagram.png]]
 
-The data is still being read from memory in clock cycle 4 while the ALU is performing the operation for the following instruction. 
+The data is still being read from [[Memory]] in clock cycle 4 while the ALU is performing the operation for the following instruction. 
 
 Something must stall the pipeline for the combination of the load followed by an instruction that reads its result. This requires an additional *hazard detection unit*.
 
@@ -109,12 +109,12 @@ Then stall the pipeline 1 clock cycle.
 
 Since RegisterRd is the register in instruction bits 4:0 for both load and R-type instructions, the first line tests to see if the instruction is a load (the only instruction type that uses MemRead is load instruction).
 
-The second line (OR statement) checks if the destination register of the load is either of the source registers for the instruction in the ID stage. After the stall, forwarding can handle the dependence and execution proceeds.
+The second line (OR statement) checks if the destination register of the load is either of the source [[Registers]] for the instruction in the ID stage. After the stall, forwarding can handle the dependence and execution proceeds.
 
 If the instruction in the ID stage is stalled, then the instruction in the IF stage must also be stalled, or else we would lose the fetched instruction. Stalling these 2 processes is accomplished by preventing the PC from changing and the IF/ID register from changing. 
 
 So what if everything after ID doing? **Nops**, instructions that do nothing.
-- We achieve this by deasserting all 8 control signals in ID/EX pipeline register. These get propagated forward and achieve NOP in EX, MEM, and WB as they get passed to each of those stages.
+- We achieve this by deasserting all 8 [[Control]] signals in ID/EX pipeline register. These get propagated forward and achieve NOP in EX, MEM, and WB as they get passed to each of those stages.
 
 ![[nop_bubble_insertion.png]]
 

@@ -1,4 +1,4 @@
-We often use [[Operational Amplifier]]s to get the same effect as [[Inductors]] because inductors are difficult to integrate onto an IC.
+We often use [[Circuits/Operational Amplifier]]s to get the same effect as [[Inductors]] because [[Inductors]] are difficult to integrate onto an IC.
 
 ## Example
 ![[second_order_op_amp_example.png]]
@@ -24,13 +24,13 @@ The associated characteristic equation is:
 $$s^2+(\frac 1 {R_2C_1}+\frac 1 {R_4C_2})s+\frac{1}{R_2R_4C_1C_2}=0$$
 The equation factors as
 $$(s+\frac 1 {R_2C_1})(s+\frac 1 {R_4C_2})=0$$
-Which has *real roots* and means this circuit could produce either an *overdamped response* or possibly a *critically damped* response.
+Which has *real [[Electronics]]ot]]s* and means this circuit could produce either an *overdamped response* or possibly a *critically damped* response.
 
 ## Sallen-Key Circuit
 ![[sallen_key_circuit.png]]
 The *Sallen-Key Circuit* can synthesize any [[Second Order Circuits]] provided the appropriate selection of component values.
 
-To analyze, we do KCL at nodes marked with the green dot. 
+To analyze, we do [[KCL]] at nodes marked with the green dot. 
 1. $\frac{V_\text{in}-V_1}{R_1}+\frac{V_o-V_1}{R_2}+C_1\frac{d(V_o-V_1)}{dt}=0$
 2. $\frac{V_o-V_1}{R_2}+C_2\frac{dV_o}{dv}=0$
 

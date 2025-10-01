@@ -35,7 +35,7 @@ $$<x(t)>=\frac 1 {T_o} \int\limits_{t_o}^{t_o+T_o}x(t)dt$$
 - Where $T_o$ is the period and $t_o$ is any convenient starting point
 
 For a *sinusoidal waveform* the *RMS* amplitude is $V_\text{RMS}=\frac{V_o} {\sqrt{2}}$
-- Does not hold true for non-sinusoidal signals
+- Does not hold true for non-[[Sinusoidal Signals]]ls]]ls]]
 
 
 ## Phasors
@@ -45,7 +45,7 @@ Recall:
 - $\cos(\theta) = \Re[e^{j\theta}]$
 - $\sin(\theta)=\Im[e^{j\theta}]$
 
-We can represent voltage with phasors:
+We can represent [[Voltage]] with phasors:
 $$v(t)=\Re[Ve^{j\omega t}]$$ 
 - Where $v(t)$ is the *sinusoidal signal* and $V$ is the *phasor*
 

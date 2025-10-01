@@ -5,5 +5,5 @@ Related to [[Expected Value]] for linear combinations of a [[Random Variable]]
 - $E[aX + bY]=aE[X]+bE[Y]$ for [[Multiple Random Variables]]
 
 
-It **does not** matter if the variables are [[Independent Random Variable]] or related, Linearity of Expectation always holds true. 
+It **does not** matter if the variables are [[Independent Random Variable]] or related, Linearity of [[Expectation]] always holds true. 
 - A strong example of this is the [[Derangement Problem]]

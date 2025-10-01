@@ -10,12 +10,12 @@ $$a\frac{d^2y}{dt^2}+b\frac{dy}{dt}+cy(t)=0$$
 
 1. Assume a solution of the form $y(t)=Ae^{st}$
 2. Plug that into the original equation producing the *characteristic equation* $as^2+bs+c=0$
-3. The solution (roots) will have one of three different forms and dictates the *homogenous solution*
+3. The solution ([[Electronics]]ot]]s) will have one of three different forms and dictates the *homogenous solution*
 	1. **Distinct real roots:** $A_1e^{s_1t}+A_2e^{s_2t}$
 	2. **Complex roots $s=\sigma\pm j\omega$:** $B_1e^{\sigma t}\cos(\omega t)+B_2e^{\sigma t}\sin(\omega t)$
 	3. **Repeated real roots:** $C_1e^{s_0t}+C_2te^{s_0t}$
 
-These roots relate to the *damping* response of the circuit. See [[Damping]].
+These roots relate to the *[[Damping]]* response of the circuit. See [[Damping]].
 
 ## Finding the Particular Solution
 $$a\frac{d^2y}{dt^2}+b\frac{dy}{dt}+cy(t)=x(t)$$

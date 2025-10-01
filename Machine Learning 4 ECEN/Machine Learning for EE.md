@@ -1,4 +1,4 @@
-*See [[Exam 1 Review]]*
+*See [[Machine Learning 4 ECEN/Exam 1 Review]]*
 
 # Introduction to Machine Learning; Week 1
 - [[Learning Algorithm]]
@@ -14,7 +14,7 @@
 - [[Sample Space]]
 - [[Event]]
 - [[Probability]]
-	- Axioms of Probability
+	- Axioms of [[Probability]]
 - [[Conditional Probability]]
 - [[Chain Rule of Probability]]
 - [[Independent Events]]

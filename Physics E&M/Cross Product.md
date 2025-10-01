@@ -1,5 +1,5 @@
 
-- A measure of how *perpendicular* 2 vectors are
+- A measure of how *perpendicular* 2 [[Vectors]] are
 - Called vector product
 - Only defined in 3D space
 - Direction is defined by right hand rule
@@ -14,6 +14,6 @@ $\vec{A} \times \vec{B} = \begin{bmatrix}  i_{x} & i_{y} & i_{z}\\  A_{x} & A_{y
 
 ---
 
-- Cross product is 0 for parallel or anti-parallel vectors
+- Cross product is 0 for parallel or anti-parallel [[Vectors]]
 - $\vec{A} \times \vec{B} = -\vec{A} \times \vec{B}$
 

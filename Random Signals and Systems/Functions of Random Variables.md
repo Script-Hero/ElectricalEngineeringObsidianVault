@@ -1,8 +1,8 @@
 #Chapter5 
 
-Consider the [[Random Variable]] $X$ and the function $g(\cdot)$, $Y=g(X)$ is also a random variable 
+Consider the [[Random Variable]] $X$ and the function $g(\cdot)$, $Y=g(X)$ is also a [[Random Signals and Systems/Random Variable|Random Variable]] 
 - The [[Probability Mass Function]] of $Y$ can be calculated with the PMF of $X$, $p_x$ as $p_{Y}(y)=\sum_{\{x|g(x)=y\}}p_{X}(x)$
-- Meaning that we are summing the probability $p_{X}(x)$ for all values of $x$ that when you apply the function $g(x)$ , the output is $y$. That's the $\{x|g(x)=y\}$ part of the summation.
+- Meaning that we are summing the [[Probability]] $p_{X}(x)$ for all values of $x$ that when you apply the function $g(x)$ , the output is $y$. That's the $\{x|g(x)=y\}$ part of the summation.
 
 ####  Example:
 - if $p_{X}(x)=\begin{cases}\frac{1}{9}&\mbox{if } x \mbox{ is an integer in the range } [-4,4] \\ 0 & \mbox{otherwise.}\end{cases}$ 

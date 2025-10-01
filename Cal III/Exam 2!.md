@@ -48,7 +48,7 @@ If $u=f(x_1,x_2,x_3,...,x_n)$ and each $x_i$ is a function of $t_1,t_2,t_3,...,t
 
 - **Extreme Value Theorem** if $f$ is closed and continuous on bound then max and min on bound exists 
 
-## 14.8 Lagrange Multipliers
+## 14.8 [[Lagrange Multiplier]]er]]er]]s
 - Maximize or minimize a given function by restricting our bound to a level curve $g(x,y)=k$ 
 - Tutorial:
 	1. Find all $x,y,\lambda$ such that $\nabla f(x,y) = \lambda \nabla g(x,y)$ and $g(x,y)=k$ 

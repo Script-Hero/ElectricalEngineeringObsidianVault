@@ -8,7 +8,7 @@ Takes the source register data, shifts it, and puts it into the destination regi
 
 | *opcode* | *Rm* | *Shamt* | *Rn* | *Rd* |
 | :------: | :--: | :-----: | :--: | :--: |
-- Note that there are only 2 registers involved, so **Rm = 0**
+- Note that there are only 2 [[Registers]] involved, so **Rm = 0**
 - *Shamt* is shift amount
 - With 6 bits, we can shift $2^6=64$ 
 	- One register is 64 bits long
