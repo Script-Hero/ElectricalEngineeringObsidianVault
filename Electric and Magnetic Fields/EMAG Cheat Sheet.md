@@ -34,7 +34,7 @@ $$\nabla\cdot V=\frac{1}{r^2}\frac \delta {\delta r}(r^2 V_r)+\frac 1 {r\sin\the
 
 # Curl
 Cylinder:
-1. $$(\nabla\times V)_\rho=\frac 1 \rho(\frac{\delta V_z}{\delta\phi}-\frac{\delta(\rho V_\phi)}{\delta z}$$
+1. $$(\nabla\times V)_\rho=\frac 1 \rho(\frac{\delta V_z}{\delta\phi}-\frac{\delta(\rho V_\phi)}{\delta z})$$
 2. $$(\nabla\times V)_\phi=\frac{\delta V_\rho}{\delta z}-\frac{\delta V_z}{\delta \rho}$$
 3. $$(\nabla\times V)_z=\frac{1}{\rho}(\frac{\delta(\rho V_\phi)}{\delta\rho}-\frac{\delta V_\rho}{\delta\phi})$$
 Spherical:
