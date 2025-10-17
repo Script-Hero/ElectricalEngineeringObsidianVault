@@ -4,13 +4,20 @@
 
 # Formulas
 **Infinite Line Charge**
-- $E=\frac{|\lambda|}{2\pi\epsilon_0\rho}$
-	- Where $\lambda$ is the linear charge density $\frac{dq}{dl}$
+- $E=\frac{|\lambda|}{2\pi\epsilon_0\rho}\hat{\rho}$
+	- $\lambda$ is the linear charge density $\frac{dq}{dl}$
+	- $\rho$ is the shortest distance from the point we're measuring from and the line ($\rho=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$)
+	- $\hat \rho$ is the *unit vector* that is **from the line charge to the point of observation**
 
 # Tables
 ![[tabl1.png]]
 ![[table2.png]]
 ![[table3.png]]
+
+
+# Triple Integrals
+Spherical:
+$$\int\int\int\rho d\rho$$
 
 # Gradients
 Spherical:
@@ -34,8 +41,3 @@ Spherical:
 4. $$(\nabla\times V)_r=\frac{1}{r\sin\theta}\left[\frac{\partial}{\partial\theta}(\sin\theta\,V_\phi)-\frac{\partial V_\theta}{\partial\phi}\right]$$
 5. $$(\nabla\times V)_\theta=\frac{1}{r}\left[\frac{1}{\sin\theta}\frac{\partial V_r}{\partial\phi}-\frac{\partial}{\partial r}(rV_\phi)\right]$$
 6. $$(\nabla\times V)_\phi=\frac{1}{r}\left[\frac{\partial}{\partial r}(rV_\theta)-\frac{\partial V_r}{\partial\theta}\right]$$
-# Conductor-Dielectric Boundary Condition
-$|\bar{E}_n|=\frac{\rho_S}{\epsilon_{e_0}}$
-- Where $\rho_S$ is the surface charge density 
-- Symmetric field = uniform charge 
-
