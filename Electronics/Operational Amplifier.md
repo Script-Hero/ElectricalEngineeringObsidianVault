@@ -4,7 +4,7 @@
 An amplifier multiplies the the magnitude of the difference between 2 [[Voltage]] signals (in this simple example between $v_{in}$ and ground) by a constant factor $v_o=A_V\cdot v_{in}(t)$
 - This configuration is *open loop*
 
-## Characteristics
+## Ideal Characteristics
 - $A_V\rightarrow\infty$ (Infinite open-loop gain)
 - Infinite input impedance
 - Zero output impedance

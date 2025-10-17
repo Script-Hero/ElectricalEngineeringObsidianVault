@@ -18,6 +18,6 @@
 
 ## Op-Amp Imperfections
 - [[Supply Limitations]]
-- [[Gain Limitations]]
+- [[Gain Lim itations]]
 - [[Gain-Bandwidth Product]]
 - [[Upper Gain Limit]]

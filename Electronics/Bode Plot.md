@@ -1,4 +1,4 @@
-Illustrates frequency response of [[Circuits]] by plotting $\omega$ in a logarithmic scale on the x-axis and either $A$ or $\phi$ on the y-axis.
+Illustrates [[Frequency Response]] of [[Circuits]] by plotting $\omega$ in a logarithmic scale on the x-axis and either $A$ or $\phi$ on the y-axis.
 ![[bode_plot_example.png]]
 For magnitude:
 $|H(j\omega)|^2=10\log_10|H(j\omega)|$ [[Decibel]]s

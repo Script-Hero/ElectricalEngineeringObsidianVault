@@ -124,6 +124,8 @@ erase
 ended
 exceed
 enough
+extremely
+equipment
 plugin
 parsed
 pair
@@ -289,6 +291,8 @@ png
 pretend
 produces
 pole
+powers
+phases
 tags
 to
 the
@@ -594,6 +598,7 @@ Valued
 Vance
 Vice
 Virtual
+Volage
 in
 is
 it
@@ -712,6 +717,7 @@ inverting
 impedance
 inverted
 internals
+instantaneous
 MORE
 Means
 Most
@@ -769,6 +775,7 @@ Methodology
 Measurements
 Mode
 Meaning
+Magnitude
 OPTIONS
 ODE
 Only
@@ -914,6 +921,8 @@ middle
 mV
 multiplies
 mode
+machines
+modern
 of
 ordered
 one
@@ -986,6 +995,7 @@ op
 opposed
 operational
 operating
+oscilloscopes
 document
 dpk
 differential
@@ -1273,6 +1283,7 @@ liberal
 legislative
 later
 limited
+loads
 we
 without
 when
@@ -1490,6 +1501,7 @@ republic
 rare
 response
 resembles
+rating
 space
 specific
 satisfy
@@ -1712,6 +1724,8 @@ saturating
 stay
 subject
 supply
+stages
+settings
 use
 up
 using
@@ -1819,6 +1833,7 @@ Pledge
 Philo
 Passive
 Poles
+Phases
 yz
 you
 yWSgQ
@@ -1888,6 +1903,8 @@ IRL
 Integrator
 Imperfections
 Increases
+Impedance
+Inverter
 General
 Graph
 Given
@@ -2118,6 +2135,7 @@ condition
 common
 chosen
 carefully
+connecting
 be
 both
 break
@@ -2183,6 +2201,8 @@ beans
 border
 black
 bandwidth
+balanced
+basis
 any
 and
 at
@@ -2381,6 +2401,12 @@ Trees
 Trad
 Tim
 Tells
+Table
+Three
+Twice
+Torque
+Transistors
+Transformer
 gives
 general
 given
@@ -2424,6 +2450,7 @@ government
 governments
 gain
 grow
+generators
 QJFiDnBR
 QtGspI
 Quiz
@@ -2631,6 +2658,7 @@ vader
 voting
 voters
 virtual
+views
 An
 Airy
 AKA
@@ -2698,6 +2726,8 @@ Amps
 As
 Amp
 Additionally
+Assumptions
+Advantages
 We
 What
 With
@@ -2730,6 +2760,7 @@ Whit
 White
 Walz
 Way
+Waveshape
 numeric
 not
 neat
@@ -2790,6 +2821,7 @@ neil
 name
 noninverting
 node
+nearly
 just
 jeF
 junction
@@ -2838,6 +2870,7 @@ Nodes
 Needed
 Newtons
 NBA
+Neutral
 Like
 Let
 Line
@@ -2875,6 +2908,7 @@ Limits
 Legislatures
 Learning
 Low
+Loads
 Recognize
 Represents
 Radial
@@ -2934,6 +2968,8 @@ Rit
 RLC
 Response
 Rolls
+Repeatability
+Rectifier
 know
 kinetic
 ks
@@ -3069,6 +3105,8 @@ Changing
 Configurations
 Circuits
 CM
+Connection
+Converter
 Unit
 Use
 UsVV
@@ -3096,6 +3134,8 @@ Know
 Key
 Kaleb
 Kamala
+KVL
+KCL
 BE
 Bloodstream
 BWdQwg
@@ -3134,6 +3174,9 @@ Baesler
 Braylen
 Biden
 BASKETBALL
+Benefits
+Balanced
+Both
 YOU
 YGb
 You

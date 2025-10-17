@@ -1,9 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
-  "quick-latex",
-  "obsidian-completr",
   "obsidian-functionplot",
-  "obsidian-emoji-toolbar",
   "highlightr-plugin",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "obsidian-emoji-toolbar"
 ]

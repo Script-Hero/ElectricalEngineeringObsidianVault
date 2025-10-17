@@ -157,7 +157,7 @@ I'm working on studying for my Modern Physics exam. So far, I've gone through ev
 
 6. How many photons/s are contained in a beam of electromagnetic radiation of total [[Power]] of 160 W when the each of the following is the source.
 
-1. $[[[[[[[[Power]]]]]]]] = N \cdot E_{photon}$
+1. $[[[[[[[[[[Power]]]]]]]]]] = N \cdot E_{photon}$
 
 2. $N$ is number of photons per second
 

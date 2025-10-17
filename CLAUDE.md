@@ -13,7 +13,7 @@ This is an Obsidian vault containing academic notes for an Electrical Engineerin
 - **Diff-EQ/**: Differential Equations ([[Separable Equations]], Laplace transforms, linear equations)
 - **ECEN 248/**: Basic electrical engineering concepts
 - **Electrical Properties of Materials/**: [[Semiconductor]] physics, [[Conductors]], insulators
-- **[[Electronics]]/**: Electronic circuit design, frequency response, op-amps
+- **[[Electronics]]/**: Electronic circuit design, [[Frequency Response]], op-amps
 - **Machine Learning 4 ECEN/**: ML for electrical engineers (regression, [[Classification]], [[Probability]])
 - **NumericalMethods/**: Computational mathematics ([[Newton's Method]], numerical integration, ODEs)
 - **POLS207/**: Political Science (state government, [[Federalism]], elections)
@@ -28,7 +28,7 @@ This is an Obsidian vault containing academic notes for an Electrical Engineerin
 - Mathematical equations use LaTeX syntax with `$` delimiters
 
 ### Common Patterns
-- Course index files (e.g., `[[[[[[[[Circuits]]]]]]]].md`, `[[[[[[[[Machine Learning for EE]]]]]]]].md`) serve as weekly syllabi with topic links
+- Course index files (e.g., `[[[[[[[[[[Circuits]]]]]]]]]].md`, `[[[[[[[[[[Machine Learning for EE]]]]]]]]]].md`) serve as weekly syllabi with topic links
 - Exam review files compile key concepts for assessments
 - Complex topics are broken into focused, single-concept notes
 - Visual aids (circuit diagrams, graphs, equations) supplement textual explanations

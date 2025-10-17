@@ -44,14 +44,14 @@
 	- Like a selector unit
 	- Has multiple inputs, one output, and has an extra "select" input to determine which of the multiple inputs to send to the output
 - cMOS
-	* nMOS Transistor
+	* nMOS [[Transistor]]
 		* *Symbol without circle*
 		* Sending a 1 into side (gate) means any input signal will pass through
 		* Called nMOS because the electrons inside are *negative* and therefore a positive outside charge attracts them to complete the circuit
 			* ***Can never work from VCC input due to this!***
 			* Used near ground
 		* "Pull down circuit"
-	* pMOS Transistor
+	* pMOS [[Transistor]]
 		* *Symbol with circle*
 		* Sending a 1 into side (gate) *blocks* any input signal trying to pass through
 		* Positive charge inside so needs negative charge to complete circuit

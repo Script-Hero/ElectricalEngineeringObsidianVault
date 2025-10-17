@@ -11,4 +11,4 @@
 The [[Transfer Function]] is $H(\omega)=-\frac 1 {j\omega R C}=\frac{+j}{\omega RC}$
 - The magnitude response ([[Decibel]]s) changes by -20 dB as frequency increases 10 one decade (10 times)
 
-Since the magnitude of the output voltage $v_O$ can't exceed the supply voltages , the values of $R$ and $C$ must be chosen carefully to avoid saturation.
+Since the magnitude of the output [[Voltage]] $v_O$ can't exceed the supply voltages , the values of $R$ and $C$ must be chosen carefully to avoid saturation.

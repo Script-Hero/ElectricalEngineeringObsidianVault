@@ -24,7 +24,7 @@
 	2. $A$ is surface area
 	3. $T = K + 273.15$ (T must be in K, not C)
 6. How many photons/s are contained in a beam of electromagnetic radiation of total [[Power]] of 160 W when the each of the following is the source.
-	1. $[[[[[[[[Power]]]]]]]] = N \cdot E_{photon}$
+	1. $[[[[[[[[[[Power]]]]]]]]]] = N \cdot E_{photon}$
 	2. $N$ is number of photons per second
 	3. $E_{photon}=h\cdot f$
 		1. $h=6.626\times 10^{-34}$ (Planck's constant)

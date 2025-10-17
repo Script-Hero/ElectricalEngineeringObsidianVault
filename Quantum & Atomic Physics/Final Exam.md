@@ -3,7 +3,7 @@
 - 30 questions
 - 2 hours long
 - Thursday at 7:30 AM 🤮
-- Front and back **[[Cheat Sheet]]**
+- Front and back **[[Cheat Sheet Quiz 1]]**
 - Covers previous exams, chapters 1-8, 12, and 14
 - **Most questions are solvable with just a conceptual understanding, with no math needed!**
 

@@ -7,6 +7,11 @@ $H(\omega)=\frac{v_{out}(\omega)}{v_{in}(\omega)}$
 
 ![[transfer_function.png]]
 
+
+# RESONANT and QUALITY!
+For any transfer function that has the denominator $As^2 + Bs + C$ , normalize it so it's $s^2 + \frac B A s + \frac C A$ , then the natural frequency is $\omega_n=\sqrt{\frac C A}$rad/s and $Q=\frac{\sqrt{AC}}{B}$ 
+
+
 Additionally:
 1. The **poles** of the transfer function are the *roots of the denominator*.
 	1. Meaning $(p_1,p_2,\dots,p_n)$ where $|H(s)|\rightarrow\infty$

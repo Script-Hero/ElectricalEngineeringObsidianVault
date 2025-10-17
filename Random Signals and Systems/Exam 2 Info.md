@@ -5,7 +5,7 @@
 	- #Chapter7
 	- #Chapter8
 - Closed book
-- No [[Cheat Sheet]]
+- No [[Cheat Sheet Quiz 1]]
 - Format and style similar to Exam 1
 
 **The exam questions will be from the topics we covered in the class, based on the slide set Chapter-5.pdf, Chapter-6.pdf, Chapter-7.pdf, and Chapter-8.pdf.**
