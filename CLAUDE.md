@@ -28,7 +28,7 @@ This is an Obsidian vault containing academic notes for an Electrical Engineerin
 - Mathematical equations use LaTeX syntax with `$` delimiters
 
 ### Common Patterns
-- Course index files (e.g., `[[[[[[[[[[Circuits]]]]]]]]]].md`, `[[[[[[[[[[Machine Learning for EE]]]]]]]]]].md`) serve as weekly syllabi with topic links
+- Course index files (e.g., `[[[[[[[[[[[[Circuits]]]]]]]]]]]].md`, `[[[[[[[[[[[[Machine Learning for EE]]]]]]]]]]]].md`) serve as weekly syllabi with topic links
 - Exam review files compile key concepts for assessments
 - Complex topics are broken into focused, single-concept notes
 - Visual aids (circuit diagrams, graphs, equations) supplement textual explanations

@@ -1,15 +1,15 @@
 # Definitions
 ### CPU Time
 The clock cycles that the CPU spends executing the program and the clock cycles the CPU spends stalled, times the total time per clock cycle.
-$$\text{CPU Time}=(\text{CPU execution clock cycles}+\text{[[[[[[[[[[Memory]]]]]]]]]]-stall clock cycles})\times\text{Clock cycle time}$$
+$$\text{CPU Time}=(\text{CPU execution clock cycles}+\text{[[[[[[[[[[[[Memory]]]]]]]]]]]]-stall clock cycles})\times\text{Clock cycle time}$$
 
 ### Memory Stall Clock Cycles
 [[Memory]]-stall clock cycles come primarily from [[Cache]] misses, so we make this assumption for simplicity (in the real world, stalls can be complicated and difficult to predict). We define the number of [[Memory]] stall cycles as the total number of stall cycles coming from reads and writes:
-$$\text{[[[[[[[[[[Memory]]]]]]]]]]-Stall Clock Cycles}=(\text{Read-stall cycles}+\text{Write-stall cycles)}$$
+$$\text{[[[[[[[[[[[[Memory]]]]]]]]]]]]-Stall Clock Cycles}=(\text{Read-stall cycles}+\text{Write-stall cycles)}$$
 - If we assume that write buffer stalls are negligible and that the read and write miss penalties are the same (the time to fetch the block from [[Memory]], usually they are the same) we can combine the reads and writes by using a single miss rate and the miss penalty:
-$$\text{[[[[[[[[[[Memory]]]]]]]]]]-stall clock cycles}=\frac{\text{[[[[[[[[[[Memory]]]]]]]]]] accesses}}{\text{Program}}\times\text{Miss rate}\times\text{Miss penalty}$$
+$$\text{[[[[[[[[[[[[Memory]]]]]]]]]]]]-stall clock cycles}=\frac{\text{[[[[[[[[[[[[Memory]]]]]]]]]]]] accesses}}{\text{Program}}\times\text{Miss rate}\times\text{Miss penalty}$$
 - We can also factor this as:
-$$\text{[[[[[[[[[[Memory]]]]]]]]]]-stall Clock Cycles}=\frac{\text{Instructions}}{\text{Program}}\times\frac{\text{Misses}}{\text{Instruction}}\times\text{Miss penalty}$$
+$$\text{[[[[[[[[[[[[Memory]]]]]]]]]]]]-stall Clock Cycles}=\frac{\text{Instructions}}{\text{Program}}\times\frac{\text{Misses}}{\text{Instruction}}\times\text{Miss penalty}$$
 
 ### Read Stall Cycles
 Read-stall cycles can be defined in terms of the number of read accesses per program, the miss penalty in clock cycles for a read, and the read miss rate:
@@ -43,7 +43,7 @@ $$\text{AMAT}=\text{Time for a hit}+\text{Miss Rate}\times\text{Miss Penalty}$$
 	- Set associative with $n$ locations for a block is called a $n$-way set-associative [[Cache]], meaning that the [[Cache]] consists of a number of sets that each contain $n$ blocks.
 	- Each block in the [[Memory]] maps to a unique *set* in the [[Cache]] given by the index field, and a block can be placed in *any* element of that set
 	- Combines direct-mapped placement and fully-associative placement: a block is directly mapped into a set, and then all blocks in the set are searched for a match
-	- The set containing a [[Memory]] block is given by $(\text{Block number})\text{modulo}(\text{Number of sets in the [[[[[[[[[[Cache]]]]]]]]]]})$
+	- The set containing a [[Memory]] block is given by $(\text{Block number})\text{modulo}(\text{Number of sets in the [[[[[[[[[[[[Cache]]]]]]]]]]]]})$
 	- **Offset Bits = $\log_2(\text{block size in bytes})$**
 	- **Index bits = $\log_2(\text{number of sets})$**
 ![[set_associations.png]]

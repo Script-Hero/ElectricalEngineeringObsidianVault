@@ -6,8 +6,8 @@ Basic methodology: the [[Cache]] contains a collection of recent references. Whe
 
 If each word can go to exactly 1 place in the [[Cache]], it's easy to find. Called **Direct Mapped [[Cache]]**.
 - Easiest way is to assign a location in the [[Cache]] based on the *address* of the word in [[Memory]]
-- Almost always use this mapping to find a block: $$(\text{Block address})\text{modulo}(\text{Number of blocks in the [[[[[[[[[[Cache]]]]]]]]]]})$$
-- If the number of entries in the [[Cache]] is a [[Power]] of 2, then module can be computed using $\log_2(\text{[[[[[[[[[[Cache]]]]]]]]]] size in blocks})$ bits of the address.
+- Almost always use this mapping to find a block: $$(\text{Block address})\text{modulo}(\text{Number of blocks in the [[[[[[[[[[[[Cache]]]]]]]]]]]]})$$
+- If the number of entries in the [[Cache]] is a [[Power]] of 2, then module can be computed using $\log_2(\text{[[[[[[[[[[[[Cache]]]]]]]]]]]] size in blocks})$ bits of the address.
 - For example, an 8-block [[Cache]] uses the three lowest bits ($8=2^3$) of the block address
 	- [[Memory]] addresses between 1 and 29 map to locations 1 and 5 in a direct-mapped [[Cache]] of 8 [[words]]
 	- ![[direct_map_cache_example.png]]
@@ -40,7 +40,7 @@ We still call this a 4 KiB [[Cache]] because we can store 1024 [[words]] = 4 KiB
 
 ### Mapping an Address to a Multiword Cache Block
 Consider a [[Cache]] with 64 blocks and a block size of 16 bytes (2 [[words]]). To what block number does byte address 1200 map?
-- Using formula: $(\text{Block address})\text{modulo}(\text{Number of blocks in the [[[[[[[[[[Cache]]]]]]]]]]})$
+- Using formula: $(\text{Block address})\text{modulo}(\text{Number of blocks in the [[[[[[[[[[[[Cache]]]]]]]]]]]]})$
 - Where the address of the block is: $\frac{\text{Byte address}}{\text{Bytes per block}}$
 - Notice that this block address is the block containing all addresses between: $[\frac{\text{Byte address}}{\text{Bytes per block}}]\times\text{Bytes per block}$ and $[\frac{\text{Byte address}}{\text{Bytes per block}}]\times\text{Bytes per block}+(\text{Bytes per block}-1)$
 - Therefore with 16 bytes per block, byte address 1200 is block address $[\frac{1200}6]=75$ which maps to [[Cache]] block number $75\text{modulo}64=11$. In fact, [[Cache]] block 11 maps all addresses between 1200 and 1215

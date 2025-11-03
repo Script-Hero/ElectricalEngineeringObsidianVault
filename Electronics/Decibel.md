@@ -6,6 +6,6 @@ $$1\text{dB}=10\log_{10}(\frac{P_{in}}{P_{out{}}})$$
 
 # For Voltage or Current Gain
 $$1\text{dB}=20\log_{10}(\frac{V_{in}}{V_{out}})$$
-- Because power is proportional to the **square** of voltage and **dB is a measure of *power* gain!**
+- Because [[Power]] is proportional to the **square** of [[Voltage]] and **dB is a measure of *[[Power]]* gain!**
 ## Example
 Since $V_{RMS}=\frac 1 {\sqrt{2}} V_{Peak}$, the [[Power]] in a resistor due to sinusoidal [[Voltage]] $v(t)=V_p\cos(\omega t)$ is $P=\frac{V_{RMS}}{R}=\frac{1}{2}\frac{V_p^2}{R}$

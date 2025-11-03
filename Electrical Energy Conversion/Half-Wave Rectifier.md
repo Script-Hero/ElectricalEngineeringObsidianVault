@@ -8,5 +8,5 @@
 
 ![[half_wave_rectifier_cap_filter.png]]
 ![[half_wave_rectifier_cap_waveform.png]]
-- $V_o(\omega t)=\begin{cases}V_m\sin(\omega t),&\text{[[Diode]] on} \\ V_\theta e^{-(\omega t-\theta)/\omega RC},&\text{[[Diode]] off}\end{cases}$    
+- $V_o(\omega t)=\begin{cases}V_m\sin(\omega t),&\text{[[[[Diode]]]] on} \\ V_\theta e^{-(\omega t-\theta)/\omega RC},&\text{[[[[Diode]]]] off}\end{cases}$    
 - Bigger $C$ means smaller $\Delta V_o$ 
